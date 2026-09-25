@@ -1,0 +1,190 @@
+source_customer_id,full_name,first_name,last_name,email,phone,date_of_birth,address_line1,city,country,status,source_system
+CRM-482d688488,Christine Johnson,Christine,Johnson,christine.johnson30@example.com,0795618110,2002-12-22,473 Evans Cliffs Apt. 276,Eldoret,KE,active,CRM
+CRM-1e465fe959,Achieng Wambui,Achieng,Wambui,achieng.wambui95@example.com,+254718181586,1991-11-20,214 Davis Terrace Apt. 433,Thika,KE,active,CRM
+CRM-84afddcdd6,Odhiambo Achieng,Odhiambo,Achieng,odhiambo.achieng54@example.com,+254737760841,2004-03-18,74740 Santana Springs,London,KE,inactive,CRM
+CRM-5c67a4b87d,William Suarez,William,Suarez,william.suarez67@example.com,0716740197,2001-09-04,5840 Barber Villages Suite 278,Lagos,GB,inactive,CRM
+CRM-105172ee53,Deborah Moore,Deborah,Moore,deborah.moore1@example.com,+254767062156,2005-03-29,467 Sanchez Plaza Apt. 639,Nakuru,KE,active,CRM
+CRM-b79d47ce4d,Justin Owens,Justin,Owens,justin.owens89@example.com,0713886030,1990-06-27,5877 Leah Stravenue Suite 535,Kisumu,KE,active,CRM
+CRM-c744de394b,NJERI ACHIENG,Njeri,Achieng,njeri.achieng71@example.com,+254716789850,1962-05-30,5698 Paul Ports Apt. 406,Lagos,US,unknown,CRM
+CRM-2d31fd99ba,Collins Acnieng,Collins,Achieng,collins.achieng10@example.com,+254741329612,2002-02-26,92546 Brooke Corner Suite 865,Eldoret,KE,active,CRM
+CRM-f980df74f6,Odhiambo Wekesa,Odhiambo,Wekesa,odhiambo.wekesa99@example.com,+254755657579,2001-09-16,60647 Henderson Street,Mombasa,KE,active,CRM
+CRM-3a956eb3fd,Wambui Kamau,Wambui,Kamau,wambui.kamau17@example.com,0777-839-607,2008-05-15,6618 Desiree Keys Apt. 286,Lagos,NG,active,CRM
+CRM-ea324b406d,Ochieng Ochieng,Ochieng,Ochieng,ochieng.ochieng75@example.com,+254751870192,2007-02-02,39005 Vanessa Turnpike Apt. 183,London,KE,inactive,CRM
+CRM-d461a22d61,,,,odhiambo.mwangi35@example.com,0791178885,2008-09-26,10033 Christine Garden Apt. 719,Nakuru,KE,active,CRM
+CRM-37471685b5,Nyokabi Kariuki,Nyokabi,Kariuki,nyokabi.kariuki69@example.com,0728814949,1975-01-09,850 Natalie Green Apt. 940,London,GB,active,CRM
+CRM-d98e6d7978,Tiffany Hodges,Tiffany,Hodges,tiffany.hodges31@example.com,0755076693,1993-05-09,2400 Flynn Hill,Thika,KE,inactive,CRM
+CRM-e7a5a7d5f1,MELANIE SIMMONS,Melanie,Simmons,melanie.simmons35@example.com,+254782232344,1962-05-22,15921 Joshua Roads Suite 698,New York,KE,active,CRM
+CRM-5b2514bff1,Onyango Otieno,Onyango,Otieno,onyango.otieno25@example.com,+254758557203,1972-06-04,69711 Carlson Brook,New York,KE,active,CRM
+CRM-2c7ebb1241,Otieno Kiptoo,Otieno,Kiptoo,otieno.kiptoo16@example.com,0759470729,1968-06-17,3757 Castro Underpass Suite 419,Eldoret,KE,active,CRM
+CRM-0673191691,Collins Atieno,Collins,Atieno,collins.atieno15@example.com,+254763782042,,2312 Gonzalez Rapids Apt. 127,New York,US,active,CRM
+CRM-4003722b4b,David Cole,David,Cole,david.cole76@example.com,0795756900,1964-02-05,6963 Lisa Ports,London,NG,active,CRM
+CRM-3d0ba4af9a,Mercy Mutua,Mercy,Mutua,mercy.mutua66@example.com,+254746698468,1974-05-15,772 Bryan Trail,London,KE,unknown,CRM
+CRM-756c2045d5,Julie Kelly,Julie,Kelly,julie.kelly12@example.com,+254725228493,1960-04-15,195 Bradley Plains,New York,US,active,CRM
+CRM-3adcde7118,Joseph Hoffman,Joseph,Hoffman,joseph.hoffman42@example.com,+254739711402,1970-11-22,933 Elizabeth Pines,Mombasa,KE,active,CRM
+CRM-66564273d6,Carrie Morales,Carrie,Morales,carrie.morales85@example.com,+254728358198,1958-11-14,57872 Mark Ridge,Mombasa,KE,inactive,CRM
+CRM-f03765e5f8,Kariuki Atieno,Kariuki,Atieno,kariuki.atieno14@example.com,+254761185849,1994-04-02,78774 Johnson Lock,Thika,KE,active,CRM
+CRM-6c70a4e122,Otieno Mwangi,Otieno,Mwangi,otieno.mwangi45@example.com,+254742787299,2001-02-15,893 Robinson Mews Suite 065,Thika,KE,active,CRM
+CRM-2de7fe048a,David Roberts,David,Roberts,david.roberts74@example.com,+254761536717,2002-07-20,09324 Andrea Course Apt. 171,New York,KE,active,CRM
+CRM-fc82e2ce27,Njeri Wekesa,Njeri,Wekesa,njeri.wekesa57@example.com,+254766910299,1957-02-13,08484 Wayne Square Suite 211,New York,KE,active,CRM
+CRM-b3e856986d,Kimberly Henson,Kimberly,Henson,kimberly.henson74@example.com,0742614537,1977-11-23,22602 Patton Loop,New York,KE,active,CRM
+CRM-1856343c90,Alicia Bryant,Alicia,Bryant,alicia.bryant61@example.com,0744788100,1994-04-26,217 Morgan Square Suite 158,Nakuru,KE,inactive,CRM
+CRM-423e17f3d2,Grace Njeri,Grace,Njeri,grace.njeri22@example.com,+254720598952,1965-09-03,001 Stacy Trail Suite 396,London,GB,active,CRM
+CRM-bf950c20cf,Joseph Rivera,Joseph,Rivera,joseph.rivera30@example.com,0729804386,1987-01-17,5301 Parker Lodge,Nairobi,KE,active,CRM
+CRM-c2d36619af,Rita Harrell,Rita,Harrell,rita.harrell88@example.com,+254719583482,1972-04-14,52880 Burns Creek,Kisumu,KE,active,CRM
+CRM-6c1df5e510,Mwangi Nyokabi,Mwangi,Nyokabi,mwangi.nyokabi65@example.com,0732084778,1965-08-21,30913 Scott Manor Apt. 636,Eldoret,KE,inactive,CRM
+CRM-5680b04ed2,Kiptoo Wambui,Kiptoo,Wambui,kiptoo.wambui85@example.com,0729944139,2002-12-31,5277 Glass Path Suite 161,New York,KE,active,CRM
+CRM-c2637e74d1,Wambui Wambui,Wambui,Wambui,wambui.wambui27@example.com,+254784384510,1966-05-19,5304 Young Terrace,Nakuru,KE,active,CRM
+CRM-6f3e66ebb4,David Anderson,David,Anderson,david.anderson75@example.com,+254715334035,1980-12-02,9868 Merritt Summit Suite 743,Mombasa,KE,active,CRM
+CRM-d7da27fd6e,Ryan Carney,Ryan,Carney,ryan.carney70@example.com,0771115319,1966-02-26,1154 Griffin Stravenue Suite 275,Thika,KE,inactive,CRM
+CRM-171824a501,Kamau Njeri,Kamau,Njeri,,,2003-07-02,182 John Mill Suite 889,Nairobi,KE,active,CRM
+CRM-211929ecf6,Daniel Bird,Daniel,Bird,daniel.bird47@example.com,+254759302863,1971-07-25,87431 Martin Mount Suite 205,Lagos,NG,active,CRM
+CRM-6f67d9427a,,,,brian.odhiambo87@example.com,+254763339667,1984-01-31,78585 Bishop Fields Apt. 484,Lagos,NG,active,CRM
+CRM-b84c620c2e,Dennis Achieng,Dennis,Achieng,dennis.achieng45@example.com,0740547349,1966-09-24,9894 Marissa Hill Apt. 524,Nakuru,KE,active,CRM
+CRM-fda4b7012a,Njeri Kiptoo,Njeri,Kiptoo,njeri.kiptoo99@example.com,+254727232410,1957-04-05,83842 Ibarra Gardens,New York,GB,active,CRM
+CRM-0e59ab1ea4,Odhiambo Onyango,Odhiambo,Onyango,odhiambo.onyango78@example.com,+254793002706,1975-01-24,7700 Decker Club,Nakuru,KE,active,CRM
+CRM-33bedd58b6,Akinyi Njeri,Akinyi,Njeri,akinyi.njeri53@example.com,+254734073380,1990-05-05,0143 Holt Inlet Suite 788,Thika,KE,active,CRM
+CRM-ddbdf36a82,Robert Clark,Robert,Clark,robert.clark10@example.com,+254771510041,1978-08-11,670 Evans Loaf,Mombasa,KE,active,CRM
+CRM-a54b068a7e,Jessica Gallagher,Jessica,Gallagher,jessica.gallagher96@example.com,+254791390501,1975-10-17,98358 Jones Parkways Suite 849,New York,NG,active,CRM
+CRM-42248b79b2,Robert Monroe,Robert,Monroe,robert.monroe36@example.com,+254759731689,2005-04-22,7240 Kenneth Rapids,Nakuru,KE,active,CRM
+CRM-b41bd01695,Elizabeth Mckinney,Elizabeth,Mckinney,elizabeth.mckinney44@example.com,0710-404-729,1985-05-10,2258 David Flats Apt. 370,Mombasa,KE,inactive,CRM
+CRM-e03e4e5632,Dennis Mutua,Dennis,Mutua,dennis.mutua31@example.com,+254742329237,1986-02-24,3534 Anderson Rue Suite 751,Mombasa,KE,active,CRM
+CRM-323575603c,Todd Harris,Todd,Harris,todd.harris60@example.com,0783363160,1988-04-20,556 Kathleen Passage Apt. 537,Kisumu,KE,active,CRM
+CRM-9be9d8fcf8,Kipchoge Ochieng,Kipchoge,Ochieng,kipchoge.ochieng99@example.com,0779067939,1970-01-28,986 Kimberly Freeway,Nairobi,KE,active,CRM
+CRM-6e9acb500f,Stephen Sanchez,Stephen,Sanchez,stephen.sanchez68@example.com,+254751395350,1993-01-03,101 Gray Plaza Suite 002,Nairobi,KE,active,CRM
+CRM-1803fbb6a6,Cynthia Marshall,Cynthia,Marshall,,,1993-03-17,20047 Colton Plain Apt. 675,Nakuru,KE,inactive,CRM
+CRM-9ac41bb08e,Wekesa Ochieng,Wekesa,Ochieng,wekesa.ochieng13@example.com,+254782148284,2007-08-05,7734 Mitchell Circle,Kisumu,KE,active,CRM
+CRM-c1ce8c2bf1,Brian Achieng,Brian,Achieng,brian.achieng73@example.com,+254799682738,,6156 Ortega Landing Apt. 711,London,NG,active,CRM
+CRM-4aa936fac2,Kiptoo Kimani,Kiptoo,Kimani,kiptoo.kimani11@example.com,+254730881581,1960-04-23,38750 Hopkins Brook,Kisumu,KE,active,CRM
+CRM-eb025c424b,Joy Wambui,Joy,Wambui,joy.wambui37@example.com,0726690465,1996-08-06,622 Marie Trail,New York,NG,active,CRM
+CRM-5409693ad8,Wanjiku Wambui,Wanjiku,Wambui,wanjiku.wambui71@example.com,+254788979095,1970-06-30,0164 Adam Trail Apt. 427,Nakuru,KE,active,CRM
+CRM-66dc341066,Brian Njoroge,Brian,Njoroge,brian.njoroge36@example.com,0743859311,1995-07-28,71236 Davis Locks Apt. 481,Mombasa,KE,active,CRM
+CRM-108fc061f7,Sheyri Frazier,Sherri,Frazier,sherri.frazier21@example.com,0757683626,1962-09-24,514 Moore Alley Suite 828,Nakuru,KE,active,CRM
+CRM-ffa4d82873,Kiptoo rdhiambo,Kiptoo,Odhiambo,kiptoo.odhiambo14@example.com,+254750477742,1987-04-01,2904 Vanessa Plains,Mombasa,KE,active,CRM
+CRM-8ebc748cbb,Kipchoge Njeri,Kipchoge,Njeri,kipchoge.njeri80@example.com,0758567046,1976-07-10,655 Christopher Inlet,Mombasa,KE,active,CRM
+CRM-edc734389a,O. Ochieng,Onyango,Ochieng,onyango.ochieng96@example.com,+254760015814,1959-12-11,687 Teresa Row,Kisumu,KE,active,CRM
+CRM-0ca7353094,Collins Wanjiru,Collins,Wanjiru,collins.wanjiru98@example.com,+254 725 745 913,2000-02-14,5341 Amanda Gardens,Thika,KE,active,CRM
+CRM-c1eb78a032,Odhiambo Mutua,Odhiambo,Mutua,odhiambo.mutua81@example.com,+254758537831,1977-07-13,87101 Courtney Turnpike,Nakuru,KE,active,CRM
+CRM-a615062591,Kenneth Wagner,Kenneth,Wagner,kenneth.wagner35@example.com,0742949803,1979-02-18,836 Beasley Loop,Mombasa,KE,active,CRM
+CRM-4b634f8cce,Nyokabi Nyokabi,Nyokabi,Nyokabi,nyokabi.nyokabi61@example.com,+254732775593,1981-03-24,2967 Theodore Lodge Suite 512,Mombasa,KE,active,CRM
+CRM-68c94b0846,Brian Gordon,Brian,Gordon,,+254773655158,1971-10-23,953 Walter Shore Apt. 644,Mombasa,KE,active,CRM
+CRM-740c5ca0d2,Cheruiyot Wekesa,Cheruiyot,Wekesa,cheruiyot.wekesa72@example.com,+254779340535,1987-12-23,98327 Melanie Keys Suite 149,Nakuru,KE,active,CRM
+CRM-3465b34afa,Mark Steele,Mark,Steele,mark.steele80@example.com,0722534217,1971-10-03,071 King Crescent Suite 808,Nakuru,KE,active,CRM
+CRM-404c90791a,Ochieng Onyango,Ochieng,Onyango,ochieng.onyango42@example.com,0749682169,2004-10-14,1832 Serrano Cliffs,Lagos,GB,active,CRM
+CRM-dd63e58c2a,Njeri Kipchpge,Njeri,Kipchoge,,0786960402,1968-08-19,2961 Yates Station Apt. 142,London,KE,active,CRM
+CRM-006c034af8,Ochieng Kipchoge,Ochieng,Kipchoge,ochieng.kipchoge96@example.com ,0733574011,1991-10-16,409 Baker Shoal Apt. 097,Nakuru,KE,active,CRM
+CRM-8615e6e4e0,Odhiambo Mutua,Odhiambo,Mutua,odhiambo.mutua79@example.com,+254780993218,1991-07-15,272 Rebecca Ramp Apt. 162,Nairobi,KE,active,CRM
+CRM-7c50c3fb0f,Joy Kiptoo,Joy,Kiptoo,joy.kiptoo69@example.com,0788461803,1960-06-19,10518 Joshua Oval,London,KE,active,CRM
+CRM-631f589433,Emily Floyd,Emily,Floyd,emily.floyd72@example.com,+254754244334,1973-05-04,2462 Allen Fork Suite 270,Mombasa,KE,active,CRM
+CRM-7ff6f4fa3c,Kariuki Onyzngo,Kariuki,Onyango,kariuki.onyango59@example.com,0731127115,1984-01-02,006 Megan Fort,Thika,KE,active,CRM
+CRM-93bd8ada60,Richard Morgan,Richard,Morgan,richard.morgan20@example.com,+254731472420,2001-07-21,38726 Joshua Gateway,London,US,active,CRM
+CRM-36d6ee7922,Jeremy Patterson,Jeremy,Patterson,jeremy.patterson63@example.com,+254742255732,1985-12-05,402 Park Inlet,New York,KE,active,CRM
+CRM-eb09901991,Erik Watson,Erik,Watson,erik..watson61@example.com,0714380847,1971-06-24,9051 Davis Springs Suite 449,Nakuru,KE,active,CRM
+CRM-72f7809dcd,Frederick Rose,Frederick,Rose,frederick.rose8@example.com,+254714308421,1988-04-19,346 Kim Path,Thika,KE,active,CRM
+CRM-828285bb44,Njoroge Wambui,Njoroge,Wambui,njoroge.wambui43@example.com,+254769096899,1963-12-07,5431 Jill Parks Suite 814,Mombasa,KE,active,CRM
+CRM-746a05a53a,Krystal Norris,Krystal,Norris,krystal.norris46@example.com,+254763293990,1960-11-07,16315 Novak Islands Apt. 477,Nairobi,KE,active,CRM
+CRM-dab02b2f3f,Dennis Achieng,Dennis,Achieng,dennis.achieng91@example.com,+254768450095,2005-11-26,847 Bruce Neck,Kisumu,KE,active,CRM
+CRM-23beeaa751,Collins Achieng,Collins,Achieng,collins.achieng24@example.com,+254744917589,1963-08-10,6232 Schmidt Groves Apt. 474,London,NG,active,CRM
+CRM-e17558321f,"Morales, Ryan",Ryan,Morales,ryan.morales61@example.com,0769118721,1960-11-11,535 Charles Roads Apt. 883,Thika,KE,active,CRM
+CRM-56934bdedc,Kevin Otieno,Kevin,Otieno,kevin.otieno38@example.com,0760310319,1974-10-04,43842 Mendez Course Apt. 992,London,GB,active,CRM
+CRM-678fb62315,Mercy Wekesa,Mercy,Wekesa,mercy.wekesa99@example.com,0732520277,1979-11-20,1585 Raymond Field,Mombasa,KE,active,CRM
+CRM-0b15b381b8,Gabrielle Ramirez,Gabrielle,Ramirez,gabrielle.ramirez98@example.com,0748848936,1984-12-29,50392 Hickman Hills,Thika,KE,active,CRM
+CRM-5bc86e8837,ANDREA PATTERSON,Andrea,Patterson,andrea.patterson8@example.com,+254719046318,1957-04-12,280 Aguilar Drive,Nairobi,KE,inactive,CRM
+CRM-cfc2fd48ba,Mutua Mutua,Mutua,Mutua,mutua.mutua76@example.com,0750987442,1990-04-11,986 Carpenter Turnpike,Nairobi,KE,active,CRM
+CRM-a519a6b64c,Joy Kiptoo,Joy,Kiptoo,joy.kiptoo54@example.com,+254730739712,2003-12-16,938 Robin Extensions,London,US,inactive,CRM
+CRM-114399788c,Mercy Mutua,Mercy,Mutua,mercy.mutua84@example.com,0725659979,1968-07-03,16571 Adam Plaza,Kisumu,KE,active,CRM
+CRM-aa2d6bcf21,Kevin Onyango,Kevin,Onyango,kevin.onyango44@example.com,+254745859307,1977-06-21,0345 Michelle Isle Suite 156,Nairobi,KE,active,CRM
+CRM-925b237687,F. Wekesa,Faith,Wekesa,faith.wekesa65@example.com,0743704923,2006-01-10,452 Kimberly Estates Suite 190,Nairobi,KE,active,CRM
+CRM-46f3e5c987,Michael Armstrong,Michael,Armstrong,michael.armstrong69@example.com,0752501540,1981-01-24,114 Key Stravenue,New York,US,active,CRM
+CRM-911d3191ce,Dylan Williams,Dylan,Williams,dylan.williams65@example.com,+254731130263,2007-11-28,6936 Ross Drive,Nairobi,KE,unknown,CRM
+CRM-7a2cf40042,Kevin Oliver,Kevin,Oliver,kevin.oliver1@example.com,+254782269803,1988-06-15,34123 Andrea Estate,Nakuru,KE,active,CRM
+CRM-b8759a2868,Ashley Lopez,Ashley,Lopez,ashley.lopez31@example.com,+254731257157,1991-07-02,88888 Peter Mountains Apt. 654,Eldoret,KE,active,CRM
+CRM-191665aa29,Wambui Achieng,Wambui,Achieng,wambui.achieng86@example.com,+254785017682,1981-12-11,867 Kane Square Apt. 963,Thika,KE,unknown,CRM
+CRM-b440aa3d9f,Grace Cheruiyot,Grace,Cheruiyot,grace.cheruiyot57@example.com,+254770597444,1995-05-11,4935 Grace Walk,Mombasa,KE,active,CRM
+CRM-7647164643,Faith Nyokabi,Faith,Nyokabi,faith.nyokabi78@example.com,+254730513739,,81219 Emma Freeway,Thika,KE,active,CRM
+CRM-5b49a189a1,Brian Sparks,Brian,Sparks,brian.sparks49@example.com,+254733357554,1987-09-12,1746 Mason Park Suite 190,Eldoret,KE,active,CRM
+CRM-f8eb6d70b8,BRIAN KIPCHOGE,Brian,Kipchoge,brian.kipchoge14@example.com,+254760992979,1965-04-08,8350 Lydia Valley Suite 641,Mombasa,KE,active,CRM
+CRM-662276733d,Otieno Otieno,Otieno,Otieno,otieno.otieno17@example.com,+254766500369,1962-08-10,822 Bond Mills,Lagos,US,active,CRM
+CRM-47211e0c1f,G. Leblanc,Gina,Leblanc,gina.leblanc17@example.com ,+254743642236,2002-11-29,145 Jeffrey Dale Suite 279,Kisumu,KE,active,CRM
+CRM-418d5d8a66,David Key,David,Key,david.key99@example.com,+254792352411,1981-08-30,936 Andrea Trail,Lagos,US,active,CRM
+CRM-f4b375563f,John Thompson,John,Thompson,john.thompson6@example.com,0781503856,1991-02-16,05395 Grant Center,London,NG,active,CRM
+CRM-cfa8848c05,,,,anna.faulkner97@example.com,0716904975,1985-09-26,3435 Sandra Vista,Eldoret,KE,active,CRM
+CRM-33f4ef5501,Aaron Frost,Aaron,Frost,aaron.frost31@example.com,+254764547971,1984-10-03,6159 Alvarado Crossing,New York,KE,active,CRM
+CRM-8711fbc0fe,ONYANGO KIPCHOGE,Onyango,Kipchoge,onyango.kipchoge42@example.com,+254724039158,1959-07-18,61530 Galvan Villages Suite 220,Kisumu,KE,active,CRM
+CRM-f57ecfd593,Kamau Wekesa,Kamau,Wekesa,kamau.wekesa86@example.com,0738754377,1979-02-10,5053 Elizabeth Knoll,Lagos,GB,active,CRM
+CRM-d97bcea1a4,Craig Johnson,Craig,Johnson,craig.johnson52@example.com,0722762205,1987-11-03,06738 Karen Trail,Thika,KE,active,CRM
+CRM-460001154e,Shawn Chambers,Shawn,Chambers,shawn.chambers7@example.com,0740094589,1991-09-19,513 Johnson Points Suite 931,Mombasa,KE,active,CRM
+CRM-b92d27ba1f,Odhiambo Mwangi,Odhiambo,Mwangi,odhiambo.mwangi50@example.com,+254790447099,2005-10-23,3030 Mahoney Passage,Lagos,GB,inactive,CRM
+CRM-33e1af7281,Kamau Mutua,Kamau,Mutua,kamau.mutua11@example.com,+254723556182,1992-02-20,6978 Maddox Wall,London,NG,active,CRM
+CRM-d8f88ce694,Sergio Acosta,Sergio,Acosta,sergio.acosta31@example.com,+254761401477,2004-02-24,0165 Stephanie Divide Suite 021,Nakuru,KE,inactive,CRM
+CRM-8895d264c5,Brian Njeri,Brian,Njeri,brian.njeri25@example.com,+254774988034,1992-01-08,403 Joyce Centers Apt. 343,Eldoret,KE,active,CRM
+CRM-2c418e2529,Michelle White,Michelle,White,michelle.white85@example.com,+254728024248,1970-04-18,75564 King Common Suite 080,Eldoret,KE,active,CRM
+CRM-2031e4c15f,Melissa Jenkins,Melissa,Jenkins,melissa.jenkins79@example.com ,+254777750178,1973-04-23,662 Hanna Crossroad Suite 171,London,KE,inactive,CRM
+CRM-03d4ae423d,Brian Nyokabi,Brian,Nyokabi,brian.nyokabi1@example.com,+254753507489,1977-10-04,909 Robert Prairie,New York,US,active,CRM
+CRM-6a349efdab,Joy Mwangi,Joy,Mwangi,joy.mwangi53@example.com,+254730718012,1997-01-17,94731 Melissa Mission Apt. 715,Mombasa,KE,active,CRM
+CRM-1d517c01f8,Kipchoge Atieno,Kipchoge,Atieno,kipchoge.atieno91@example.com,0761818612,1969-01-15,6909 Erika Land Suite 719,Kisumu,KE,active,CRM
+CRM-d916a88b94,Christopher Bruce,Christopher,Bruce,christopher.bruce8@example.com,+254737437207,1990-04-16,180 Jason Ways Suite 401,Eldoret,KE,inactive,CRM
+CRM-cd47af8af5,Pamela Navarro,Pamela,Navarro,pamela.navarro39@example.com,0738210242,1988-02-24,39904 Kathryn Extensions,London,NG,active,CRM
+CRM-34a4c47510,David Fisher,David,Fisher,david.fisher2@example.com,0775793759,1962-09-07,7589 Shannon Forges,Mombasa,KE,active,CRM
+CRM-7fc7a26cc7,Joanne Williams,Joanne,Williams,joanne.williams98@example.com,+254793955206,2004-01-06,9782 Shannon Valleys,Nakuru,KE,active,CRM
+CRM-47e4137c0a,Otieno Njoroge,Otieno,Njoroge,otieno.njoroge17@example.com,+254796637649,1960-12-18,62316 Rivera Mountain,Eldoret,KE,active,CRM
+CRM-578603dbfd,Katrina Duran,Katrina,Duran,katrina.duran68@example.com,+254747983442,1971-10-26,76226 Vincent Village,Mombasa,KE,inactive,CRM
+CRM-66e71ef3c4,S. Ferguson,Shane,Ferguson,shane.ferguson95@example.com,0791029073,1972-11-09,59774 Shaw Manor Apt. 392,Eldoret,KE,active,CRM
+CRM-f593e648c4,Njoroge Ochieng,Njoroge,Ochieng,njoroge.ochieng45@example.com,,1984-01-10,98454 Miller Lodge,Eldoret,KE,active,CRM
+CRM-b529ea65a4,Katrina Becker,Katrina,Becker,katrina.becker80@example.com,+254713619375,1963-11-20,047 Bethany Street,London,US,active,CRM
+CRM-cb99bf8240,Wanjiku Wekesa,Wanjiku,Wekesa,wanjiku.wekesa65@example.com,+254778139880,2026-12-30,34309 Julie Centers Apt. 978,Mombasa,KE,inactive,CRM
+CRM-ec3bbf1a1d,Colleen Orr,Colleen,Orr,colleen.orr65@example.com,+254776276072,,5379 Goodwin Tunnel,New York,US,active,CRM
+CRM-189bdc8739,Odhiambo Cheruiyot,Odhiambo,Cheruiyot,odhiambo.cheruiyot15@example.com,0787054398,1987-04-24,3540 Sharon Streets,Nakuru,KE,inactive,CRM
+CRM-e22fc826ae,Wambui Otieno,Wambui,Otieno,wambui.otieno40@example.com,0715354599,1986-05-22,0752 Lewis Union Suite 549,Thika,KE,active,CRM
+CRM-9d69205ae5,Samantha Bailey,Samantha,Bailey,samantha.bailey13@example.com,+254764038913,1999-06-01,03654 Tammy Harbors,Thika,KE,inactive,CRM
+CRM-1447514879,Jason Anderson,Jason,Anderson,jason.anderson18@example.com,+254776238574,2005-05-23,76311 Gomez Loop Suite 010,Mombasa,KE,active,CRM
+CRM-15d36e0fcb,Odhiambo Mwangi,Odhiambo,Mwangi,odhiambo.mwangi37@example.com,0775056916,1989-08-13,246 Christina Garden,Mombasa,KE,active,CRM
+CRM-3cd7e8cbee,Faith Kiptoo,Faith,Kiptoo,faith.kiptoo93@example.com,+254767723010,1980-09-17,3106 John Cliff,New York,GB,active,CRM
+CRM-ec3cf15a10,Wambui Odhiambo,Wambui,Odhiambo,wambui.odhiambo50@example.com,+254730509175,1975-05-28,38692 Gregory Ridge Suite 937,Nakuru,KE,active,CRM
+CRM-67d7e5ba47,Stephanie Peterson,Stephanie,Peterson,stephanie.peterson35@example.com,0752-476-240,1996-08-03,22141 Ebony Wells,Nairobi,KE,active,CRM
+CRM-6db678dc3e,"Nyokabi, Cheruiyot",Cheruiyot,Nyokabi,cheruiyot.nyokabi15@example.com,0787388337,1988-04-13,677 Dalton Meadow,Nakuru,KE,active,CRM
+CRM-8fa5abc46c,Njeri Kariuki,Njeri,Kariuki,njeri.kariuki30@example.com,+254790801586,1976-07-09,9407 Teresa Lane Apt. 849,Nairobi,KE,active,CRM
+CRM-7cf916dd1e,"Achieng, Njoroge",Njoroge,Achieng,njoroge.achieng36@example.com,+254788561612,2001-01-03,24782 Davis Forges Suite 506,London,KE,unknown,CRM
+CRM-58d72c2356,Kariuki Onyango,Kariuki,Onyango,kariuki.onyango88@example.com,+254775802771,1960-07-28,1801 Johnson Lodge Apt. 265,New York,US,inactive,CRM
+CRM-0dcf7545e6,Broan Cheruiyot,Brian,Cheruiyot,brian.cheruiyot66@example.com,+254724636981,1962-10-26,971 Stokes Motorway,New York,GB,inactive,CRM
+CRM-93be56324d,JUSTIN GALLEGOS,Justin,Gallegos,justin.gallegos37@example.com,+254763747791,2026-10-29,779 Rebecca Brook,Lagos,US,active,CRM
+CRM-64ba155cf1,Mike Moore,Mike,Moore,mike.moore55@example.com,+254782383095,2000-02-07,808 Huynh Cove Apt. 411,Nakuru,KE,active,CRM
+CRM-c1a9d93c63,Mutua Njoroge,Mutua,Njoroge,mutua.njoroge35@example.com,+254784752529,2005-01-21,03911 Cabrera Trace Apt. 278,Nakuru,KE,active,CRM
+CRM-147d3b1529,Travis Salas,Travis,Salas,travis.salas43@example.com,+254725480907,1986-08-10,7520 Everett Neck Apt. 167,Eldoret,KE,active,CRM
+CRM-9b7dda7546,"Wekesa, Ochieng",Ochieng,Wekesa,ochieng.wekesa30@example.com,+254735848226,1970-12-01,9764 Kari Crescent Suite 614,Thika,KE,active,CRM
+CRM-2b12125d69,Warren Carr,Warren,Carr,warren.carr38@example.com,+254755461591,1981-04-14,283 Bolton Neck,Mombasa,KE,active,CRM
+CRM-425e690138,Nancy Jones,Nancy,Jones,nancy.jones60@example.com,+254743744231,1998-10-07,80132 Tucker Forest,Lagos,US,active,CRM
+CRM-66a7ec1b2f,Jerry Hudson,Jerry,Hudson,jerry.hudson52@example.com,+254729042093,1969-07-18,7772 Jackson Stravenue Suite 280,Nairobi,KE,active,CRM
+CRM-6120310f5c,Ochieng Odhiambo,Ochieng,Odhiambo,ochieng.odhiambo52@example.com,+254742655866,2004-08-30,22961 Joyce Burgs Apt. 836,Eldoret,KE,active,CRM
+CRM-da130a3ccd,,,,erica.orr37@example.com,0784593961,1988-10-05,8044 Russell Prairie Suite 777,New York,GB,active,CRM
+CRM-6486a9734f,Bhian Njoroge,Brian,Njoroge,brian.njoroge54@example.com,+254783300637,1986-07-01,406 Smith Way Apt. 974,Nakuru,KE,active,CRM
+CRM-94d9da904f,Nathaniel Miles,Nathaniel,Miles,nathaniel.miles17@example.com ,254760502752,2004-03-17,91878 Miller Port,Nakuru,KE,active,CRM
+CRM-cc3e48e7da,Amy Jones,Amy,Jones,amy.jones90@example.com,+254787267850,2005-11-23,647 Gonzalez Lights Suite 136,London,KE,active,CRM
+CRM-57b18b5a89,Mercy Onyango,Mercy,Onyango,mercy.onyango72@example.com,+254725015458,1984-06-17,85067 Ryan Lake Suite 262,Mombasa,KE,inactive,CRM
+CRM-b519808961,Onyango Njeri,Onyango,Njeri,onyango.njeri17@example.com,0781481992,1965-03-21,685 Campos Dam,Nakuru,KE,active,CRM
+CRM-e3af91c5fd,Ellen Paul,Ellen,Paul,ellen.paul31@example.com,+254773560289,2005-12-07,261 Gilbert Harbors Apt. 537,Mombasa,KE,active,CRM
+CRM-8fcfb898fa,K. Nyokabi,Kevin,Nyokabi,kevin.nyokabi39@example.com,0796347724,1963-08-20,9087 Cummings Locks Suite 039,Nairobi,KE,active,CRM
+CRM-1186944222,Kiptoo Nyokabi,Kiptoo,Nyokabi,kiptoo.nyokabi28@example.com,+254798145654,1976-01-23,46990 Jacob Trace,New York,GB,inactive,CRM
+CRM-a504122480,Otieno Otieno,Otieno,Otieno,otieno.otieno94@example.com,0781971316,1967-09-28,76724 John Points Suite 969,Mombasa,KE,unknown,CRM
+CRM-6b59213982,Otieno Otieno,Otieno,Otieno,otieno.otieno1@example.com,0727558317,2005-01-17,3193 Heidi Hollow Apt. 905,Eldoret,KE,active,CRM
+CRM-835d7582fe,"Cheruiyot, Atieno",Atieno,Cheruiyot,atieno.cheruiyot72@example.com,0793303777,1993-03-19,083 John Lodge Suite 837,Kisumu,KE,inactive,CRM
+CRM-039c88c9d3,Steven Elliott,Steven,Elliott,steven.elliott20@example.com,+254785543051,,527 Taylor Roads Suite 490,Eldoret,KE,active,CRM
+CRM-bfff1b93d5,"Nyokabi, Odhiambo",Odhiambo,Nyokabi,odhiambo.nyokabi45@example.com,0783871890,1978-08-05,54599 Nicole Drives Apt. 901,Thika,KE,active,CRM
+CRM-c034fe2475,Gface Mutua,Grace,Mutua,grace.mutua30@example.com,+254722130508,1981-08-26,9125 Shannon Springs Suite 289,London,US,active,CRM
+CRM-f55e33272b,Atieno Achieng,Atieno,Achieng,atieno.achieng12@example.com,+254738468360,1997-11-13,96685 Richard Court,Nairobi,KE,active,CRM
+CRM-6c5b538fd0,Allison Luna,Allison,Luna,allison.luna38@example.com,0777853916,1968-05-07,47868 Morrow Gateway,London,US,active,CRM
+CRM-490188edc0,Keith Sullivan,Keith,Sullivan,keith.sullivan71@example.com,0726948946,2006-12-26,751 Richard Gardens,New York,US,inactive,CRM
+CRM-568aa46d70,Kiptoo Kipchoge,Kiptoo,Kipchoge,kiptoo.kipchoge28@example.com,0758-199-211,1980-03-28,15098 Brianna Avenue,London,KE,active,CRM
+CRM-620026ed0c,Wekesa Wanjiru,Wekesa,Wanjiru,wekesa.wanjiru50@example.com,254739396392,1997-02-01,533 Byrd Stravenue,London,GB,inactive,CRM
+CRM-4f9c602053,G. Kipchoge,Grace,Kipchoge,grace.kipchoge80@example.com,0799038359,1956-11-30,974 Jesse Squares Suite 713,Mombasa,KE,active,CRM
+CRM-b2e1ebc4f6,Kipchoge Wekesa,Kipchoge,Wekesa,kipchoge.wekesa9@example.com,0757130035,1957-07-06,0084 Dana Terrace,Lagos,KE,active,CRM
+CRM-ffd75df22e,Hunter Burch,Hunter,Burch,hunter.burch13@example.com,0732329103,1979-04-05,82422 Donovan Fork,Eldoret,KE,inactive,CRM
+CRM-7870f4e1d6,Marie Davis,Marie,Davis,marie.davis24@example.com ,0738470244,1961-10-17,80988 Santiago Loop Suite 604,Thika,KE,active,CRM
+CRM-8715916190,G. Wambui,Grace,Wambui,grace.wambui76@example.com,+254746173157,2002-02-21,758 Jennifer Path,Nairobi,KE,active,CRM
+CRM-f16c8f5d31,Onyango Cheruiyot,Onyango,Cheruiyot,,,1998-06-19,2160 Walker Viaduct,Nairobi,KE,active,CRM
+CRM-e334cc55cd,Akinyi Kamau,Akinyi,Kamau,akinyi.kamau77@example.com,+254741568532,1990-11-13,63287 Angela Vista,London,US,inactive,CRM
+CRM-7f0ac9b7be,Lucas Long,Lucas,Long,lucas.long40@example.com,0714478111,1988-10-24,588 Erickson Hills Suite 055,Thika,KE,active,CRM
+CRM-DUP-61942e2c37,Odhiambo Wekesa,Odhiambo,Wekesa,odhiambo.wekesa99@example.com,+254755657579,2001-09-16,60647 Henderson Street,Mombasa,KE,active,CRM
+CRM-DUP-68e870d7c2,Mercy Wekesa,Mercy,Wekesa,mercy.wekesa99@example.com,0732520277,1979-11-20,1585 Raymond Field,Mombasa,KE,active,CRM
+CRM-DUP-87542588d8,Joseph Hoffman,Joseph,Hoffman,joseph.hoffman42@example.com,+254739711402,1970-11-22,933 Elizabeth Pines,Mombasa,KE,active,CRM
+CRM-DUP-1a834a0c41,Kamau Njeri,Kamau,Njeri,,,2003-07-02,182 John Mill Suite 889,Nairobi,KE,active,CRM
+CRM-DUP-de9c40c7d0,Warren Carr,Warren,Carr,warren.carr38@example.com,+254755461591,1981-04-14,283 Bolton Neck,Mombasa,KE,active,CRM

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+*.db
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Logs
+*.log
+
+# Video / large media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar.gz
+
+# Backups
+*-backup/
+*.bak

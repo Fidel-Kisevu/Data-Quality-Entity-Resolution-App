@@ -1,0 +1,459 @@
+source_transaction_id,source_customer_id,transaction_date,amount,currency,description,status,source_system
+TXN-f3ceef7361,ERP-aecf71a648,2026-09-23,288.05,KES,Annual Subscription,completed,ERP
+TXN-507db24bb7,ERP-95acac1e4d,,,USD,Screen Protector,completed,ERP
+TXN-1f879b0e8a,ERP-57dd0cf90f,2026-09-23,190.41,KES,Wireless Earbuds,completed,ERP
+TXN-be0aa81847,ERP-d18dd115f0,2026-09-23,603.32,KES,Laptop Stand,pending,ERP
+TXN-911265fff5,ERP-7fc842d15e,2026-09-23,219.07,KES,Annual Subscription,refunded,ERP
+TXN-f685c546c3,ERP-0e52bbbbd5,2026-09-23,141.86,KES,Bluetooth Speaker,completed,ERP
+TXN-29fb602aa1,ERP-ef75f4faa5,2026-09-23,520.71,KES,Laptop Stand,completed,ERP
+TXN-2e4e579945,ERP-e51cc3d23d,2026-09-23,,USD,Keyboard Cover,completed,ERP
+TXN-7f78ab3418,ERP-a21eaf7699,2026-09-23,596.55,EUR,Screen Protector,completed,ERP
+TXN-e763614074,ERP-4648a7fbe1,2026-09-23,461.41,KES,Express Shipping,refunded,ERP
+TXN-fb498efb71,ERP-91f2e0f5ec,2026-09-23,539.27,EUR,Screen Protector,completed,ERP
+TXN-00ad7d9905,ERP-53de999693,2026-09-23,38.23,KES,Monthly Plan,completed,ERP
+TXN-a50fa2ebd4,ERP-2eee60958c,2026-09-23,123.25,KES,Cable Organizer,completed,ERP
+TXN-6da3552568,ERP-d235b00fb5,2026-09-23,821.76,KES,Power Bank 20000mAh,completed,ERP
+TXN-4a9bf452c9,ERP-b3eae34b6d,2026-09-23,130.87,USD,Wireless Earbuds,refunded,ERP
+TXN-954aa83345,ERP-304db3fe27,2026-09-23,17.14,USD,Express Shipping,refunded,ERP
+TXN-a343238848,ERP-12113c387d,2026-09-23,507.76,USD,USB-C Hub,completed,ERP
+TXN-d5cf6a7234,ERP-fa0b225bd8,2026-09-23,466.27,KES,USB-C Hub,disputed,ERP
+TXN-8a744c7469,ERP-28259da44d,2026-09-23,472.63,KES,Wireless Earbuds,refunded,ERP
+TXN-aad013ba9b,ERP-abd3cf8203,2026-09-23,10.37,KES,Annual Subscription,completed,ERP
+TXN-b892cce4a1,ERP-9a6034c112,2026-09-23,545.65,KES,Laptop Stand,completed,ERP
+TXN-03c188f31c,ERP-1803805983,2026-09-23,298.94,KES,Phone Case,completed,ERP
+TXN-1a38e87986,ERP-aa5569a7b8,2026-09-23,655.93,USD,USB-C Hub,completed,ERP
+TXN-9e43b541e1,ERP-500c94d47f,2026-09-23,50.65,KES,Smart Watch Band,completed,ERP
+TXN-eb00434fb7,ERP-94d8b906c1,2026-09-23,138.55,KES,Phone Case,completed,ERP
+TXN-3d3b046c12,ERP-d80555b578,2026-09-23,199.4,KES,USB-C Hub,completed,ERP
+TXN-e665e3f543,ERP-95a35fbfbb,2026-09-23,127.48,EUR,Bluetooth Speaker,completed,ERP
+TXN-c6d5f66174,ERP-e51cc3d23d,2026-09-23,589.92,KES,Express Shipping,completed,ERP
+TXN-b06e7ea8d8,ERP-5f5b913e98,2026-09-23,493.51,USD,Bluetooth Speaker,completed,ERP
+TXN-593ebe6497,ERP-48fa610c27,2026-09-23,627.07,KES,Cable Organizer,completed,ERP
+TXN-ad02dcb360,ERP-500c94d47f,2026-09-23,38.85,KES,Wireless Earbuds,completed,ERP
+TXN-9f54a08f3f,ERP-6ca8d7d8e7,2026-09-23,476.92,KES,USB-C Hub,completed,ERP
+TXN-bac2c2058e,ERP-bc5b633176,2026-09-23,729.94,USD,Keyboard Cover,completed,ERP
+TXN-e629e33328,ERP-2909679b77,2026-09-23,732.02,KES,Power Bank 20000mAh,pending,ERP
+TXN-30a514db70,ERP-26bcd5e6f2,2026-09-23,670.6,KES,Monthly Plan,pending,ERP
+TXN-3da30889f5,ERP-2dfca1ec11,2026-09-23,528.17,KES,Screen Protector,completed,ERP
+TXN-dc5a42ed58,ERP-0d1916600d,2026-09-23,628.09,USD,Monthly Plan,pending,ERP
+TXN-4f76f2e557,ERP-063f43b4b6,2026-09-23,51.02,KES,Screen Protector,completed,ERP
+TXN-fbd39a545a,ERP-28259da44d,2026-09-23,680.92,EUR,Phone Case,pending,ERP
+TXN-9419d69586,ERP-f3c1fc1649,2026-09-23,69592.27,KES,Keyboard Cover,completed,ERP
+TXN-546356736d,ERP-db2e1c4d45,2026-09-23,,USD,Phone Case,completed,ERP
+TXN-e193480fe9,ERP-d80555b578,2026-09-23,415.8,USD,Screen Protector,completed,ERP
+TXN-e127f2cb6d,ERP-ae75ad7df5,2026-09-23,319.26,KES,Laptop Stand,pending,ERP
+TXN-15ce4bf899,ERP-4f0d1a73dc,2026-09-23,714.24,USD,Laptop Stand,completed,ERP
+TXN-301a21cd02,ERP-f1469ceb7a,2026-09-23,480.3,KES,Power Bank 20000mAh,completed,ERP
+TXN-1cef25988e,ERP-12113c387d,2026-09-23,,EUR,Laptop Stand,refunded,ERP
+TXN-9bac47b41a,ERP-65a6743867,2026-09-23,824.32,USD,Annual Subscription,disputed,ERP
+TXN-52f0b0d26c,ERP-c881213264,2026-09-23,122.81,USD,Bluetooth Speaker,completed,ERP
+TXN-ed30fa0764,ERP-0bf8f43b7d,2026-09-23,192.71,EUR,Wireless Earbuds,completed,ERP
+TXN-2916cd3f85,ERP-f6ba2db5c0,2026-09-23,273.51,USD,Annual Subscription,refunded,ERP
+TXN-b5f6ceb9ab,ERP-57dd0cf90f,2026-09-23,265.33,KES,USB-C Hub,completed,ERP
+TXN-08a8046af6,ERP-af887e32cd,2026-09-23,620.67,KES,Cable Organizer,pending,ERP
+TXN-ace12d3bba,ERP-2b63b3dc33,2026-09-23,643.92,KES,Smart Watch Band,completed,ERP
+TXN-2190ccf5a2,ERP-038b4385b9,2026-10-15,249.6,KES,Smart Watch Band,pending,ERP
+TXN-f819374fac,ERP-44dd54232d,2026-09-23,812.84,USD,Annual Subscription,completed,ERP
+TXN-596fb0e788,ERP-063f43b4b6,2026-09-23,421.63,EUR,Power Bank 20000mAh,completed,ERP
+TXN-4a64532add,ERP-ef705e9696,2026-09-23,320.36,USD,Smart Watch Band,completed,ERP
+TXN-2b511e2976,ERP-aecf71a648,2026-09-23,310.18,USD,Wireless Earbuds,refunded,ERP
+TXN-39b6802e02,ERP-26e7323705,2026-09-23,510.95,KES,Power Bank 20000mAh,completed,ERP
+TXN-a3d6a52758,ERP-e2ee723dbd,2026-09-23,302.13,KES,Smart Watch Band,completed,ERP
+TXN-2e8c81d403,ERP-0617daa491,2026-09-23,707.68,USD,Monthly Plan,completed,ERP
+TXN-5d977c3883,ERP-bc5b633176,2026-09-23,779.05,KES,Wireless Earbuds,completed,ERP
+TXN-9209143b6d,ERP-72f504ddea,2026-09-23,150.52,KES,Phone Case,completed,ERP
+TXN-c427086dc7,ERP-abd3cf8203,2026-09-23,363.96,USD,Wireless Earbuds,completed,ERP
+TXN-1ae7f61328,ERP-7d0b8f3068,2026-09-23,401.37,EUR,Smart Watch Band,completed,ERP
+TXN-9d19d354b3,ERP-7fc842d15e,2026-09-23,571.66,KES,Monthly Plan,completed,ERP
+TXN-86e1fe4d94,ERP-0e97b59b65,2026-09-23,,KES,Gift Card 1000,pending,ERP
+TXN-8cef4d9b50,ERP-1e865830d2,2026-09-23,785.98,EUR,Keyboard Cover,pending,ERP
+TXN-5a38b8b137,ERP-038b4385b9,2026-09-23,363.36,KES,Gift Card 1000,completed,ERP
+TXN-21d004552c,ERP-88ed91cf8f,2026-09-23,615.21,KES,Bluetooth Speaker,completed,ERP
+TXN-e4d63909d4,ERP-65a6743867,2026-09-23,-837.29,KES,Express Shipping,pending,ERP
+TXN-4e1eb124a0,ERP-95acac1e4d,2026-09-23,561.47,KES,Bluetooth Speaker,completed,ERP
+TXN-e8f9a24adf,ERP-a0c708891b,2026-09-23,291.14,USD,Phone Case,disputed,ERP
+TXN-19c4966842,ERP-f3457f4a23,2026-09-23,305.9,USD,Keyboard Cover,refunded,ERP
+TXN-679a85b1db,ERP-42ef5a2979,2026-09-23,30.12,USD,Keyboard Cover,pending,ERP
+TXN-43c6642495,ERP-26e7323705,2026-09-23,647.34,USD,Keyboard Cover,completed,ERP
+TXN-abd4d2c248,ERP-81fbb1bd40,2026-09-23,466.89,EUR,Bluetooth Speaker,completed,ERP
+TXN-e1781a5501,ERP-94d8b906c1,2026-09-23,475.38,USD,Monthly Plan,completed,ERP
+TXN-503f9a1096,ERP-f6ba2db5c0,2026-09-23,562.77,USD,Keyboard Cover,completed,ERP
+TXN-c3daa37170,ERP-e0acf26d0c,2026-09-23,652.67,KES,Cable Organizer,completed,ERP
+TXN-e7c27effca,ERP-72f504ddea,2026-09-23,326.58,KES,Bluetooth Speaker,disputed,ERP
+TXN-e75b745dcb,ERP-db9134a1b8,2026-09-23,739.25,KES,Screen Protector,completed,ERP
+TXN-1a8631778f,ERP-6d2f2e38e5,2026-09-23,501.85,EUR,Bluetooth Speaker,completed,ERP
+TXN-04c04fd2ac,ERP-ef9edc7da8,2026-09-23,145.8,KES,USB-C Hub,disputed,ERP
+TXN-17abc19a83,ERP-9cd682f6db,2026-09-23,256.24,USD,Cable Organizer,pending,ERP
+TXN-4432cb7145,ERP-823c7484c9,2026-09-23,406.6,KES,Annual Subscription,pending,ERP
+TXN-0a5898a70f,ERP-41445bd11a,2026-09-23,533.09,KES,Laptop Stand,completed,ERP
+TXN-ec4960c512,ERP-2dfca1ec11,2026-09-23,231.41,USD,Express Shipping,pending,ERP
+TXN-23c046af5a,ERP-3414360547,2026-09-23,208.12,USD,Express Shipping,completed,ERP
+TXN-3635363f42,ERP-5c3818f8c9,2026-09-23,550.91,KES,Bluetooth Speaker,completed,ERP
+TXN-46736571ad,ERP-95a35fbfbb,2026-09-23,361.61,EUR,Smart Watch Band,completed,ERP
+TXN-ef25c71d81,ERP-d57d655b56,2026-09-23,665.99,KES,Power Bank 20000mAh,pending,ERP
+TXN-a5d78e21f4,ERP-7758012177,2026-09-23,340.38,USD,USB-C Hub,pending,ERP
+TXN-2cdb2e9aed,ERP-0bf8f43b7d,2026-09-23,217.78,USD,Phone Case,completed,ERP
+TXN-4786441e48,ERP-af887e32cd,2026-09-23,189.22,KES,Smart Watch Band,completed,ERP
+TXN-bcd429bb0a,ERP-5c43ced908,2026-09-23,466.15,KES,Smart Watch Band,completed,ERP
+TXN-0b6ebf8fd5,ERP-5072b2ff93,2026-09-23,34.41,USD,Wireless Earbuds,pending,ERP
+TXN-6d7efd1819,ERP-cbfa80ef3f,2026-09-23,768.17,USD,USB-C Hub,completed,ERP
+TXN-2c189ff799,ERP-7758012177,2026-09-23,796.19,USD,Express Shipping,completed,ERP
+TXN-055f64c71a,ERP-e51cc3d23d,2026-09-23,236.56,KES,Keyboard Cover,completed,ERP
+TXN-de799aeae3,ERP-222ac75442,2026-09-23,595.22,KES,Cable Organizer,completed,ERP
+TXN-4d6caa84f5,ERP-7fc842d15e,2026-09-23,537.48,USD,Bluetooth Speaker,completed,ERP
+TXN-b1c88fae59,ERP-304db3fe27,2026-09-23,720.68,USD,Power Bank 20000mAh,pending,ERP
+TXN-bfc07ea219,ERP-6ec60b87e1,2026-09-23,172.87,KES,Bluetooth Speaker,completed,ERP
+TXN-d188cada8b,ERP-46fb25b424,2026-09-23,771.28,EUR,Monthly Plan,completed,ERP
+TXN-dcc8cb86dd,ERP-5f5b913e98,2026-09-23,805.42,KES,Bluetooth Speaker,completed,ERP
+TXN-9c565c8cbc,ERP-7a237c0b7e,2026-09-23,248.33,KES,Express Shipping,completed,ERP
+TXN-5297ecb7e3,ERP-3414360547,2026-09-23,29.31,KES.,Keyboard Cover,completed,ERP
+TXN-a9d44ac91e,ERP-b0c319cfb8,2026-09-23,585.39,USD,Monthly Plan,completed,ERP
+TXN-aa5417d2fe,ERP-e0acf26d0c,2026-09-23,847.24,,Cable Organizer,disputed,ERP
+TXN-95fb03b97e,ERP-28259da44d,2026-09-23,116.74,USD,Laptop Stand,completed,ERP
+TXN-57d74d6313,ERP-823c7484c9,2026-09-23,370.83,KES,Laptop Stand,completed,ERP
+TXN-47855522d5,ERP-e6048a91e7,2026-09-23,522.93,USD,Power Bank 20000mAh,completed,ERP
+TXN-1eb9a99dc6,ERP-db275b8f5f,2026-09-23,49.97,KES,Wireless Earbuds,completed,ERP
+TXN-d4382fefdc,ERP-106f9167a0,2026-09-23,306.26,USD,Keyboard Cover,completed,ERP
+TXN-c89a01850e,ERP-5f5b913e98,2026-09-23,638.7,USD,Annual Subscription,completed,ERP
+TXN-e3a9e5e161,ERP-f3c1fc1649,2026-09-23,213.0,KES,Power Bank 20000mAh,completed,ERP
+TXN-11ef97a428,ERP-d1b3f2409b,2026-09-23,134.94,KES,Annual Subscription,pending,ERP
+TXN-837c8eb7bc,ERP-d235b00fb5,2026-09-23,279.55,USD,Gift Card 1000,completed,ERP
+TXN-1d9ecbaca7,ERP-d3c65e6bb0,2026-09-23,467.35,USD,Smart Watch Band,completed,ERP
+TXN-d7dc0dd872,ERP-75789abbc8,2026-09-23,245.77,USD,Phone Case,completed,ERP
+TXN-b3b5c6b04c,ERP-54374dab4d,2026-09-23,567.36,USD,Keyboard Cover,completed,ERP
+TXN-3e54b09511,ERP-28259da44d,2026-09-23,523.72,KES,Wireless Earbuds,completed,ERP
+TXN-e19b49d65e,ERP-0bf8f43b7d,2026-09-23,536.98,KES,Bluetooth Speaker,completed,ERP
+TXN-4509199c1a,ERP-a8619634ad,2026-09-23,447.01,KES,Phone Case,completed,ERP
+TXN-67de9bbaf4,ERP-41445bd11a,2026-09-23,305.36,USD,Wireless Earbuds,completed,ERP
+TXN-6854572419,ERP-44dd54232d,2026-09-23,270.28,USD,Keyboard Cover,completed,ERP
+TXN-5b92c9c2ac,ERP-f3fc0087c8,2026-09-23,,USD,Wireless Earbuds,completed,ERP
+TXN-8c6d119b12,ERP-f3fc0087c8,2026-09-23,618.4,KES,Cable Organizer,pending,ERP
+TXN-4da99053e9,ERP-4557cce138,2026-09-23,166.23,USD,USB-C Hub,completed,ERP
+TXN-cf452e3edc,ERP-b3eae34b6d,2026-09-23,166.32,KES,Keyboard Cover,completed,ERP
+TXN-0bcd785ac9,ERP-be51853b2f,2026-09-23,731.53,USD,Cable Organizer,completed,ERP
+TXN-eb2d3da4f7,ERP-16b54e87d6,2026-09-23,722.08,USD,Screen Protector,completed,ERP
+TXN-59ff7a7c8b,ERP-d57d655b56,2026-09-23,200.96,KES,Cable Organizer,completed,ERP
+TXN-0d6937d84c,ERP-6489ce77ed,2026-09-23,383.83,KES,Monthly Plan,completed,ERP
+TXN-f8e20f97b3,ERP-f3fc0087c8,2026-09-23,726.17,USD,Smart Watch Band,completed,ERP
+TXN-4a7ee0e109,ERP-6d2f2e38e5,2026-09-23,680.79,USD,Smart Watch Band,completed,ERP
+TXN-02b5dbc6b7,ERP-16b54e87d6,2026-09-23,801.88,KES,Screen Protector,completed,ERP
+TXN-3fb2c93969,ERP-82be1db8d0,2026-09-23,32.01,KES,Cable Organizer,completed,ERP
+TXN-ca80abc786,ERP-88ed91cf8f,2026-09-23,231.03,KES,Screen Protector,completed,ERP
+TXN-93271975c5,ERP-4bab68c6ac,2026-09-23,828.59,USD,Express Shipping,completed,ERP
+TXN-6d3d965420,ERP-cbfa80ef3f,2026-09-23,137.69,KES,Screen Protector,completed,ERP
+TXN-ce1599baac,ERP-ef75f4faa5,2026-09-23,376.05,KES,USB-C Hub,completed,ERP
+TXN-eae66ed239,ERP-16b54e87d6,2026-09-23,309.74,USD,Gift Card 1000,completed,ERP
+TXN-58ae4e2aec,ERP-4b17b16b61,2026-09-23,676.44,KES,Laptop Stand,completed,ERP
+TXN-4f0c76bc78,ERP-7073857e0b,2026-09-23,371.79,KES,Annual Subscription,completed,ERP
+TXN-ce1b3d5261,ERP-4760f76def,2026-09-23,57223.34,USD,Express Shipping,completed,ERP
+TXN-ebe7777b26,ERP-ed3c2ee0fe,2026-09-23,549.08,USD,Cable Organizer,completed,ERP
+TXN-11fea21f66,ERP-1803805983,2026-09-23,76.22,KES,Monthly Plan,completed,ERP
+TXN-fbbfc30620,ERP-95acac1e4d,2026-09-23,292.9,USD,Gift Card 1000,completed,ERP
+TXN-d369eb7d16,ERP-7d0b8f3068,2026-09-23,716.14,KES,Phone Case,completed,ERP
+TXN-d58e5eed40,ERP-8c0635153c,2026-09-23,685.55,EUR,Annual Subscription,completed,ERP
+TXN-4a4f947fc9,ERP-82f0dbcc71,2026-09-23,573.21,USD,USB-C Hub,completed,ERP
+TXN-8b294ecc94,ERP-af887e32cd,2026-09-23,705.03,KES,Laptop Stand,completed,ERP
+TXN-48a0be5aee,ERP-b0c319cfb8,2026-09-23,741.85,USD,Keyboard Cover,completed,ERP
+TXN-07b34fcf6d,ERP-d57d655b56,2026-09-23,605.92,KES,Express Shipping,completed,ERP
+TXN-dc29e6c3bd,ERP-ef705e9696,2026-09-23,513.35,KES,Cable Organizer,completed,ERP
+TXN-ad5652825b,ERP-1efbe132c4,2026-11-03,673.57,KES,Wireless Earbuds,completed,ERP
+TXN-ef9cc98fb6,ERP-57dd0cf90f,2026-09-23,62.09,KES,Smart Watch Band,completed,ERP
+TXN-63a86372b3,ERP-5b94e63558,2026-09-23,431.53,KES,Keyboard Cover,completed,ERP
+TXN-21362ef8f3,ERP-b0c319cfb8,2026-09-23,291.45,KES,Keyboard Cover,completed,ERP
+TXN-b07e6b2721,ERP-a167766301,2026-09-23,479.08,KES,USB-C Hub,completed,ERP
+TXN-4c6e82bbad,ERP-82be1db8d0,2026-09-23,762.85,KES,Laptop Stand,refunded,ERP
+TXN-4229c3c5d9,ERP-6ca8d7d8e7,2026-09-23,686.85,USD,Wireless Earbuds,completed,ERP
+TXN-2a1997f47c,ERP-038b4385b9,2026-09-23,222.32,KES,Laptop Stand,completed,ERP
+TXN-952459fe03,ERP-7d0b8f3068,2026-09-23,524.23,KES,Wireless Earbuds,completed,ERP
+TXN-66ec423ba2,ERP-ef705e9696,2026-09-23,48.84,KES,USB-C Hub,completed,ERP
+TXN-568554b457,ERP-a134bcfe0e,2026-09-23,60.31,KES,Wireless Earbuds,completed,ERP
+TXN-0450188211,ERP-1803805983,2026-09-23,485.17,KES,Screen Protector,pending,ERP
+TXN-a4b2e3cac9,ERP-af887e32cd,2026-09-23,817.34,XXX,Express Shipping,completed,ERP
+TXN-1a79b590d7,ERP-41445bd11a,2026-09-23,714.37,KES,Annual Subscription,completed,ERP
+TXN-aa12bf5fd6,ERP-5e1e80912c,2026-09-23,339.03,KES,Screen Protector,completed,ERP
+TXN-d193151c08,ERP-72f504ddea,2026-09-23,541.72,EUR,Smart Watch Band,completed,ERP
+TXN-7f8b4d53f2,ERP-42ef5a2979,2026-09-23,551.24,KES,Wireless Earbuds,completed,ERP
+TXN-11f761e184,ERP-f3c1fc1649,2026-09-23,460.16,USD,Keyboard Cover,pending,ERP
+TXN-280181497a,ERP-35e66b199d,2026-09-23,110.43,KES,Wireless Earbuds,completed,ERP
+TXN-656d8d79cc,ERP-1803805983,2026-09-23,688.11,XXX,Power Bank 20000mAh,disputed,ERP
+TXN-8700f693e3,ERP-1e3550a3a3,2026-09-23,485.89,KES,Annual Subscription,completed,ERP
+TXN-d827033e6b,ERP-cd2402684f,2026-09-23,-224.38,USD,Screen Protector,completed,ERP
+TXN-ad8d548e83,ERP-4293bc841b,2026-09-23,751.22,KES,Annual Subscription,completed,ERP
+TXN-1460df7438,ERP-4b17b16b61,2026-09-23,399.27,KES.,Monthly Plan,completed,ERP
+TXN-ffb265fae9,ERP-82f0dbcc71,2026-09-23,687.48,EUR,Monthly Plan,completed,ERP
+TXN-c3d25070bd,ERP-26e7323705,2026-09-23,28.55,KES,Gift Card 1000,completed,ERP
+TXN-f11f839250,ERP-9497e65085,2026-09-23,699.28,KES,Phone Case,completed,ERP
+TXN-6937633f83,ERP-7d0b8f3068,2026-09-23,779.62,KES,Monthly Plan,pending,ERP
+TXN-8d6b53099d,ERP-db9134a1b8,2026-09-23,91.04,KES,Express Shipping,completed,ERP
+TXN-a1b3b96a7a,ERP-35e66b199d,2026-09-23,388.13,KES,Cable Organizer,completed,ERP
+TXN-7960ad5067,ERP-14445e7958,2026-09-23,96.27,KES,Cable Organizer,completed,ERP
+TXN-db05decb57,ERP-106f9167a0,2026-09-23,162.11,KES,Laptop Stand,completed,ERP
+TXN-a64f9b8f36,ERP-3414360547,2026-09-23,129.56,KES,Power Bank 20000mAh,completed,ERP
+TXN-1dc9d7f69d,ERP-4293bc841b,2026-09-23,730.6,KES,USB-C Hub,completed,ERP
+TXN-9b95753ee8,ERP-2dfca1ec11,2026-09-23,511.8,KES,Power Bank 20000mAh,completed,ERP
+TXN-df22f5234f,ERP-0617daa491,2026-09-23,782.36,USD,Keyboard Cover,completed,ERP
+TXN-2c0ce9e10e,ERP-f1469ceb7a,2026-09-23,343.26,USD,Wireless Earbuds,completed,ERP
+TXN-a2c2785bc5,ERP-cbfa80ef3f,2026-09-23,42.1,KES,Laptop Stand,completed,ERP
+TXN-d808d09762,ERP-94d8b906c1,2026-09-23,717.23,EUR,Annual Subscription,completed,ERP
+TXN-3fff7167ca,ERP-28259da44d,2026-09-23,689.02,USD,Gift Card 1000,refunded,ERP
+TXN-316857247f,ERP-2eee60958c,2026-09-23,166.97,KES,Cable Organizer,completed,ERP
+TXN-0ca13775aa,ERP-4760f76def,2026-09-23,672.2,KES,Gift Card 1000,completed,ERP
+TXN-ad04b1dc98,ERP-6d2f2e38e5,2026-09-23,673.39,USD,Bluetooth Speaker,completed,ERP
+TXN-2eb53b6d95,ERP-99df1f3ad0,2026-09-23,449.03,KES,Keyboard Cover,refunded,ERP
+TXN-f9d3dd7e30,ERP-ef75f4faa5,2026-09-23,387.01,KES,Bluetooth Speaker,completed,ERP
+TXN-4f31a88daf,ERP-6ca8d7d8e7,2026-09-23,254.32,KES,Wireless Earbuds,completed,ERP
+TXN-132173b6c2,ERP-5c43ced908,2026-09-23,235.7,KES,Smart Watch Band,completed,ERP
+TXN-7b0f5c0847,ERP-063f43b4b6,2026-09-23,787.98,KES,Wireless Earbuds,completed,ERP
+TXN-d411323de6,ERP-063f43b4b6,2026-09-23,80784.71,USD,Express Shipping,completed,ERP
+TXN-d621cfee56,ERP-75789abbc8,2026-09-23,699.47,USD,Annual Subscription,completed,ERP
+TXN-8afab5072e,ERP-9250cc74e9,2026-09-23,202.5,USD,Keyboard Cover,completed,ERP
+TXN-a2330ebda2,ERP-16b54e87d6,2026-09-23,182.1,KES,Power Bank 20000mAh,completed,ERP
+TXN-af600b2dff,ERP-e0acf26d0c,2026-09-23,292.15,KES,Bluetooth Speaker,completed,ERP
+TXN-2b7c39d5ab,ERP-5b94e63558,2026-09-23,134.87,EUR,Annual Subscription,completed,ERP
+TXN-e08e71db86,ERP-db9134a1b8,2026-09-23,456.64,KES,Cable Organizer,completed,ERP
+TXN-85a055a646,ERP-f3fc0087c8,2026-09-23,417.88,KES,Bluetooth Speaker,completed,ERP
+TXN-38490f2346,ERP-5f5b913e98,2026-09-23,281.12,EUR,Phone Case,completed,ERP
+TXN-8b0305864f,ERP-f1469ceb7a,2026-09-23,266.74,USD,Laptop Stand,completed,ERP
+TXN-c6f134e31c,ERP-aa3308ec6d,2026-09-23,842.47,KES,Cable Organizer,pending,ERP
+TXN-7104fc1e08,ERP-7758012177,2026-09-23,248.29,USD,Monthly Plan,completed,ERP
+TXN-3f681af82c,ERP-94d8b906c1,2026-09-23,765.47,USD,Annual Subscription,completed,ERP
+TXN-8c88fc0031,ERP-063f43b4b6,2026-09-23,750.76,KES,Phone Case,completed,ERP
+TXN-294605b59b,ERP-28259da44d,2026-09-23,69.67,KES,Power Bank 20000mAh,completed,ERP
+TXN-6d14518cd7,ERP-aa5569a7b8,2026-09-23,327.08,USD,Bluetooth Speaker,pending,ERP
+TXN-529ee5ca68,ERP-aa5569a7b8,2026-09-23,62.66,KES,Keyboard Cover,completed,ERP
+TXN-2bb3c06bcb,ERP-4760f76def,2026-09-23,109.91,USD,Annual Subscription,completed,ERP
+TXN-8b0278dcd8,ERP-e5f7a145e6,2026-09-23,187.66,USD,Gift Card 1000,pending,ERP
+TXN-732ecfccd7,ERP-5de73d943f,2026-09-23,8.94,USD,USB-C Hub,completed,ERP
+TXN-b22661f758,ERP-14445e7958,2026-09-23,579.57,KES,Phone Case,refunded,ERP
+TXN-9e42f03c4c,ERP-d80555b578,2026-09-23,277.66,USD,Screen Protector,completed,ERP
+TXN-a6fa44065e,ERP-7b04792af9,2026-09-23,15.12,KES,Annual Subscription,completed,ERP
+TXN-9cf0ebe3bc,ERP-5de73d943f,2026-09-23,427.14,EUR,Gift Card 1000,completed,ERP
+TXN-ef4cf0771d,ERP-933fbe2566,2026-09-23,577.83,EUR,Power Bank 20000mAh,completed,ERP
+TXN-b3a5751a03,ERP-8502475eb9,2026-09-23,75715.28,USD,Annual Subscription,completed,ERP
+TXN-4e0737f52e,ERP-48fa610c27,2026-09-23,644.87,USD,Power Bank 20000mAh,completed,ERP
+TXN-9bdb08e2c1,ERP-106f9167a0,2026-09-23,629.67,KES,Annual Subscription,completed,ERP
+TXN-fc2d4c6d75,ERP-46fb25b424,2026-09-23,720.66,KES,Screen Protector,completed,ERP
+TXN-0f537d97e0,ERP-038b4385b9,2026-09-23,445.64,KES,Phone Case,completed,ERP
+TXN-1aa4e3813e,ERP-7758012177,2026-09-23,151.76,KES,USB-C Hub,pending,ERP
+TXN-b36e23edaa,ERP-94d8b906c1,2026-09-23,516.94,KES,Annual Subscription,completed,ERP
+TXN-612ce408db,ERP-6d2f2e38e5,2026-09-23,377.96,KES,Gift Card 1000,completed,ERP
+TXN-4247f43ded,ERP-44dd54232d,2026-09-23,507.93,KES,Smart Watch Band,completed,ERP
+TXN-a19fa17b85,ERP-6d2f2e38e5,2026-09-23,170.38,EUR,Express Shipping,completed,ERP
+TXN-cd8b70bc53,ERP-99df1f3ad0,2026-09-23,329.51,KES,Phone Case,disputed,ERP
+TXN-20210985f9,ERP-95a35fbfbb,2026-09-23,813.75,USD,Power Bank 20000mAh,completed,ERP
+TXN-ca14ddae5f,ERP-a8619634ad,2026-09-23,209.79,KES,Annual Subscription,pending,ERP
+TXN-28cf618ab4,ERP-3414360547,2026-09-23,219.87,USD,Express Shipping,refunded,ERP
+TXN-ab8a5422f1,ERP-abd3cf8203,2026-09-23,443.16,KES,Express Shipping,completed,ERP
+TXN-2ecca9d1ae,ERP-ec956484b5,2026-09-23,640.83,EUR,Phone Case,pending,ERP
+TXN-b18ba03dd3,ERP-b0c319cfb8,2026-09-23,,KES,Keyboard Cover,completed,ERP
+TXN-4d3fe6fceb,ERP-5f5b913e98,2026-09-23,154.06,KES,Keyboard Cover,completed,ERP
+TXN-b2116b439f,ERP-d6378c9b54,2026-09-23,688.76,KES,Express Shipping,disputed,ERP
+TXN-1ee7d34be4,ERP-728440e439,2026-11-05,110.36,KES,USB-C Hub,completed,ERP
+TXN-92edd08aaf,ERP-c881213264,2026-09-23,86.83,KES,Cable Organizer,completed,ERP
+TXN-41b2b98b43,ERP-ef9edc7da8,2026-09-23,318.31,USD,Express Shipping,disputed,ERP
+TXN-526c883c9c,ERP-1e865830d2,2026-09-23,7.61,USD,Express Shipping,completed,ERP
+TXN-0cd2d1b7c6,ERP-a8619634ad,2026-09-23,316.32,,Keyboard Cover,completed,ERP
+TXN-c02bebe67b,ERP-cbfa80ef3f,2026-09-23,743.05,EUR,Annual Subscription,completed,ERP
+TXN-74a0801a40,ERP-9250cc74e9,2026-09-23,838.91,USD,Monthly Plan,refunded,ERP
+TXN-5477cdbfc2,ERP-dec1355c58,2026-09-23,31.83,KES,Express Shipping,completed,ERP
+TXN-9129814ece,ERP-81fbb1bd40,2026-09-23,208.56,KES,Annual Subscription,completed,ERP
+TXN-6b0201d1d4,ERP-d2753fd71c,2026-09-23,652.53,KES,Keyboard Cover,completed,ERP
+TXN-328376f66f,ERP-1bbdfd426c,2026-09-23,741.79,EUR,Cable Organizer,completed,ERP
+TXN-2845af7fe2,ERP-4293bc841b,2026-09-23,821.48,KES,Smart Watch Band,completed,ERP
+TXN-7696e50b3d,ERP-fa2fd44f0a,,489.05,KES,Bluetooth Speaker,completed,ERP
+TXN-bde8be50b7,ERP-5c43ced908,2026-09-23,656.73,USD,Laptop Stand,refunded,ERP
+TXN-11d635823e,ERP-3414360547,2026-09-23,694.65,KES,Annual Subscription,completed,ERP
+TXN-33c4537e40,ERP-5de73d943f,2026-09-23,275.52,KES,Smart Watch Band,completed,ERP
+TXN-3412427251,ERP-728440e439,2026-09-23,54.7,USD,Monthly Plan,completed,ERP
+TXN-71e36afa80,ERP-94d8b906c1,2026-09-23,728.98,USD,Express Shipping,completed,ERP
+TXN-631b85aecf,ERP-57dd0cf90f,2026-09-23,645.27,KES,Smart Watch Band,completed,ERP
+TXN-4c5a037869,ERP-e2ee723dbd,2026-09-23,736.65,KES,Smart Watch Band,refunded,ERP
+TXN-3171a4c1a8,ERP-31bb73d117,2026-09-23,684.68,KES,Power Bank 20000mAh,completed,ERP
+TXN-558e49f4b7,ERP-48fa610c27,2026-09-23,579.13,KES,Power Bank 20000mAh,completed,ERP
+TXN-b3e7999ee3,ERP-a21eaf7699,2026-09-23,534.79,KES,USB-C Hub,completed,ERP
+TXN-e30c7da938,ERP-5e1e80912c,2026-09-23,662.18,,Smart Watch Band,completed,ERP
+TXN-758349bd80,ERP-0be64dbe3e,2026-09-23,195.07,USD,Keyboard Cover,disputed,ERP
+TXN-9559da5652,ERP-95a35fbfbb,2026-09-23,257.12,KES,Monthly Plan,completed,ERP
+TXN-063ddbfdea,ERP-b3eae34b6d,2026-09-23,667.04,KES,Express Shipping,completed,ERP
+TXN-da7cd4075a,ERP-ef705e9696,2026-09-23,157.66,USD,Screen Protector,completed,ERP
+TXN-68ccec3b11,ERP-0e52bbbbd5,2026-09-23,724.48,KES,Screen Protector,disputed,ERP
+TXN-e11f47e883,ERP-500c94d47f,2026-09-23,804.55,KES,Annual Subscription,pending,ERP
+TXN-8b53d086a5,ERP-5072b2ff93,2026-09-23,459.79,KES,Express Shipping,completed,ERP
+TXN-ebb8ba8ccc,ERP-53de999693,2026-09-23,187.55,KES,Cable Organizer,completed,ERP
+TXN-707029004d,ERP-0e52bbbbd5,2026-09-23,576.66,EUR,USB-C Hub,completed,ERP
+TXN-283b451e61,ERP-0be64dbe3e,2026-09-23,516.18,KES,Gift Card 1000,completed,ERP
+TXN-27c3573f11,ERP-4a086af8c2,2026-09-23,348.73,KES,Power Bank 20000mAh,completed,ERP
+TXN-a197fdcca9,ERP-0617daa491,2026-09-23,324.94,KES,Laptop Stand,refunded,ERP
+TXN-4d244cc3d9,ERP-82f0dbcc71,2026-09-23,736.26,USD,Wireless Earbuds,completed,ERP
+TXN-2b483745f3,ERP-e5f7a145e6,,471.16,USD,Cable Organizer,completed,ERP
+TXN-1b15703b0e,ERP-7a237c0b7e,2026-09-23,49.67,USD,Monthly Plan,disputed,ERP
+TXN-b5a5b8c3db,ERP-2dfca1ec11,2026-09-23,429.38,KES,Monthly Plan,completed,ERP
+TXN-373321c0c3,ERP-7b04792af9,2026-09-23,719.23,USD,USB-C Hub,completed,ERP
+TXN-7dd76b385d,ERP-35e66b199d,2026-09-23,818.03,KES,Monthly Plan,completed,ERP
+TXN-1a5fcdff27,ERP-4557cce138,2026-09-23,525.76,EUR,Monthly Plan,completed,ERP
+TXN-ec211d6901,ERP-823c7484c9,2026-09-23,583.05,KES,Laptop Stand,completed,ERP
+TXN-34daf9a49f,ERP-b8ed86330e,2026-09-23,303.53,KES,Laptop Stand,completed,ERP
+TXN-ad432808d2,ERP-ef705e9696,2026-09-23,250.1,KES,Wireless Earbuds,completed,ERP
+TXN-ac7535d8f0,ERP-1531dee915,2026-09-23,795.43,KES.,Wireless Earbuds,pending,ERP
+TXN-24336a290b,ERP-35e66b199d,2026-09-23,-90.63,KES,Screen Protector,completed,ERP
+TXN-661313472b,ERP-99df1f3ad0,2026-09-23,257.9,KES,Gift Card 1000,completed,ERP
+TXN-029f4dec7f,ERP-aa3308ec6d,2026-09-23,308.56,USD,USB-C Hub,completed,ERP
+TXN-50cabe75e0,ERP-0d1916600d,2026-09-23,815.95,EUR,Keyboard Cover,completed,ERP
+TXN-51629c98bd,ERP-82be1db8d0,2026-09-23,618.47,USD,Laptop Stand,pending,ERP
+TXN-7230bf3019,ERP-8c0635153c,2026-09-23,48.97,USD,Cable Organizer,completed,ERP
+TXN-f8728ccaad,ERP-b51f609cb3,2026-09-23,621.22,KES,Phone Case,completed,ERP
+TXN-4a84644445,ERP-60395caa93,2026-09-23,597.47,KES,Express Shipping,completed,ERP
+TXN-5852e96b27,ERP-3414360547,2026-09-23,365.23,USD,Wireless Earbuds,completed,ERP
+TXN-28d80adcf1,ERP-7d0b8f3068,2026-09-23,435.83,USD,Smart Watch Band,completed,ERP
+TXN-006010c2c6,ERP-2909679b77,2026-09-23,49.05,USD,Keyboard Cover,completed,ERP
+TXN-0904428ca8,ERP-4bab68c6ac,2026-09-23,86.87,KES,Express Shipping,completed,ERP
+TXN-80fd88ec35,ERP-8c0635153c,2026-09-23,554.46,KES,Phone Case,completed,ERP
+TXN-8ca746ed6f,ERP-2eee60958c,2026-09-23,168.02,KES,Screen Protector,completed,ERP
+TXN-0d05b8f119,ERP-cd2402684f,2026-09-23,166.99,USD,Gift Card 1000,completed,ERP
+TXN-b60d19ec19,ERP-95a35fbfbb,2026-09-23,62.21,KES,Screen Protector,refunded,ERP
+TXN-02c4e4fe6c,ERP-7d0b8f3068,2026-09-23,676.26,USD,Bluetooth Speaker,completed,ERP
+TXN-0a7fe17090,ERP-4293bc841b,2026-09-23,,KES,Laptop Stand,completed,ERP
+TXN-b9b2ca4a11,ERP-82be1db8d0,2026-09-23,603.05,KES,USB-C Hub,completed,ERP
+TXN-cddcfffbd4,ERP-3414360547,2026-10-21,801.03,KES,Express Shipping,completed,ERP
+TXN-ae0497c2dc,ERP-f3fc0087c8,2026-09-23,826.52,KES,Screen Protector,refunded,ERP
+TXN-eb52e97eb9,ERP-35e66b199d,2026-09-23,701.22,KES,Laptop Stand,disputed,ERP
+TXN-55a8556035,ERP-038b4385b9,2026-09-23,804.08,KES,Cable Organizer,completed,ERP
+TXN-01a55c14b9,ERP-b0c319cfb8,2026-09-23,136.52,KES,Power Bank 20000mAh,completed,ERP
+TXN-9eede55db8,ERP-68c2618db2,2026-09-23,419.49,USD,Wireless Earbuds,completed,ERP
+TXN-a02dea20d9,ERP-48fa610c27,2026-09-23,45719.24,EUR,Phone Case,disputed,ERP
+TXN-7406c2c8b7,ERP-500c94d47f,2026-09-23,116.69,,Annual Subscription,completed,ERP
+TXN-ca6f6294cf,ERP-6ca8d7d8e7,2026-09-23,175.96,KES,Keyboard Cover,completed,ERP
+TXN-278fcdae69,ERP-7c623c06c3,2026-09-23,33134.01,USD,Smart Watch Band,completed,ERP
+TXN-07fd6a11dd,ERP-5c3818f8c9,2026-09-23,195.87,USD,Monthly Plan,completed,ERP
+TXN-232cd4f790,ERP-54374dab4d,2026-09-23,69.47,KES,Phone Case,completed,ERP
+TXN-c7ae13f492,ERP-a21eaf7699,2026-09-23,759.68,USD,Smart Watch Band,completed,ERP
+TXN-a4b63da9a5,ERP-f3c1fc1649,2026-09-23,671.58,USD,Gift Card 1000,disputed,ERP
+TXN-38c06911cf,ERP-4648a7fbe1,2026-09-23,100.62,KES,Laptop Stand,completed,ERP
+TXN-1115c00e9c,ERP-ec956484b5,2026-09-23,513.47,USD,Annual Subscription,completed,ERP
+TXN-3f7ba662ea,ERP-46fb25b424,2026-09-23,330.01,USD,Cable Organizer,completed,ERP
+TXN-ba2f032380,ERP-8502475eb9,2026-09-23,311.23,KES,Phone Case,completed,ERP
+TXN-98aca1c7c8,ERP-9a6034c112,2026-09-23,710.79,USD,Bluetooth Speaker,refunded,ERP
+TXN-f000d3a74d,ERP-728440e439,2026-09-23,624.45,USD,Wireless Earbuds,completed,ERP
+TXN-a3fb6d18cd,ERP-ff29cb37c5,2026-09-23,124.38,KES,Express Shipping,completed,ERP
+TXN-cd79920ea5,ERP-44dd54232d,2026-09-23,402.31,USD,Annual Subscription,completed,ERP
+TXN-2d5966c967,ERP-82be1db8d0,2026-09-23,140.49,KES,Keyboard Cover,completed,ERP
+TXN-f068504e82,ERP-bf88ca1bde,2026-09-23,234.69,KES,Laptop Stand,completed,ERP
+TXN-7adb882927,ERP-f3fc0087c8,2026-09-23,716.25,USD,Power Bank 20000mAh,completed,ERP
+TXN-fa85436525,ERP-aecf71a648,2026-09-23,96.6,KES,Express Shipping,completed,ERP
+TXN-bb9813396f,ERP-a167766301,2026-09-23,163.64,KES,USB-C Hub,refunded,ERP
+TXN-c32c8af98b,ERP-7b04792af9,2026-09-23,83.76,KES,Gift Card 1000,disputed,ERP
+TXN-94568a399a,ERP-26e7323705,2026-09-23,284.96,USD,Screen Protector,completed,ERP
+TXN-9e91e678c3,ERP-65a6743867,2026-09-23,141.23,USD,Annual Subscription,completed,ERP
+TXN-0d3320c396,ERP-222ac75442,2026-09-23,844.44,KES,Cable Organizer,disputed,ERP
+TXN-0107ba2e22,ERP-83fcfd3eec,2026-09-23,38.81,USD,USB-C Hub,completed,ERP
+TXN-a4a4b5a97f,ERP-4557cce138,2026-09-23,125.52,USD,Gift Card 1000,completed,ERP
+TXN-f9d37f33ca,ERP-1e3550a3a3,2026-09-23,492.15,KES,Monthly Plan,completed,ERP
+TXN-421c927f8e,ERP-5b94e63558,2026-09-23,799.16,EUR,Power Bank 20000mAh,completed,ERP
+TXN-36dddd6b81,ERP-7b04792af9,2026-09-23,320.76,USD,Smart Watch Band,completed,ERP
+TXN-8c86e1bae6,ERP-4293bc841b,2026-09-23,11.71,USD,Laptop Stand,completed,ERP
+TXN-fa78d153ae,ERP-2dfca1ec11,2026-09-23,547.9,EUR,Phone Case,completed,ERP
+TXN-152029da02,ERP-db9134a1b8,2026-09-23,273.11,EUR,Monthly Plan,completed,ERP
+TXN-88e9c6759b,ERP-978a114363,2026-09-23,275.56,KES,Bluetooth Speaker,completed,ERP
+TXN-a4bc234b8f,ERP-be51853b2f,2026-09-23,809.99,USD,Annual Subscription,completed,ERP
+TXN-f2cad1df88,ERP-db2e1c4d45,2026-09-23,448.44,USD,Express Shipping,completed,ERP
+TXN-2402fd7a5b,ERP-db2e1c4d45,2026-09-23,411.97,KES,Monthly Plan,pending,ERP
+TXN-ee597f9ae0,ERP-a0c708891b,2026-09-23,70.75,USD,Power Bank 20000mAh,completed,ERP
+TXN-16c0343d87,ERP-bc5b633176,2026-09-23,81600.87,KES,Gift Card 1000,completed,ERP
+TXN-99ea52940b,ERP-e2ee723dbd,2026-09-23,87.34,KES,Bluetooth Speaker,disputed,ERP
+TXN-9f85200920,ERP-fa0b225bd8,2026-09-23,812.06,KES,Smart Watch Band,completed,ERP
+TXN-638c484ec6,ERP-ec956484b5,2026-09-23,302.21,USD,Gift Card 1000,completed,ERP
+TXN-96c9f6340d,ERP-95a35fbfbb,2026-09-23,327.42,USD,Bluetooth Speaker,completed,ERP
+TXN-38a072d804,ERP-60395caa93,2026-09-23,80.74,KES,Phone Case,refunded,ERP
+TXN-a40291b8d6,ERP-e51cc3d23d,2026-09-23,569.22,USD,Gift Card 1000,completed,ERP
+TXN-8bc15a3261,ERP-aa5569a7b8,2026-09-23,353.93,USD,Monthly Plan,completed,ERP
+TXN-d784b8314c,ERP-aeef54526c,2026-09-23,,USD,USB-C Hub,completed,ERP
+TXN-1f80049e33,ERP-4b17b16b61,2026-09-23,697.93,USD,Cable Organizer,completed,ERP
+TXN-b9e6501fd0,ERP-fa0b225bd8,2026-09-23,367.59,EUR,Monthly Plan,completed,ERP
+TXN-3d4198dbee,ERP-dec1355c58,2026-09-23,105.02,USD,Gift Card 1000,completed,ERP
+TXN-22d7764029,ERP-95a35fbfbb,2026-09-23,14.75,USD,Cable Organizer,completed,ERP
+TXN-888b13b5e5,ERP-09778f9720,2026-09-23,541.12,USD,Annual Subscription,completed,ERP
+TXN-80d6f2a1b1,ERP-a21f90a2e4,2026-09-23,,KES,Annual Subscription,refunded,ERP
+TXN-c1497505fe,ERP-9a6034c112,2026-09-23,243.68,USD,Keyboard Cover,completed,ERP
+TXN-28b780f00a,ERP-d57d655b56,2026-09-23,815.54,KES,Bluetooth Speaker,completed,ERP
+TXN-bffe5cd791,ERP-68c2618db2,2026-09-23,538.38,USD,Power Bank 20000mAh,completed,ERP
+TXN-f07f3246d8,ERP-d18dd115f0,2026-09-23,167.95,KES,Screen Protector,completed,ERP
+TXN-d3dc0e147e,ERP-6ca8d7d8e7,2026-09-23,619.94,EUR,Keyboard Cover,completed,ERP
+TXN-8487c018de,ERP-95a35fbfbb,2026-09-23,438.19,KES,Laptop Stand,completed,ERP
+TXN-9c47c9a2c5,ERP-511effba5d,2026-09-23,268.29,USD,Keyboard Cover,refunded,ERP
+TXN-e398887e79,ERP-d2753fd71c,2026-09-23,367.77,USD,Annual Subscription,completed,ERP
+TXN-65d94c95b9,ERP-f3fc0087c8,2026-09-23,703.55,USD,Power Bank 20000mAh,disputed,ERP
+TXN-b42d405b96,ERP-31bb73d117,2026-09-23,,KES,Phone Case,completed,ERP
+TXN-6264e16953,ERP-85eb4deccd,2026-09-23,479.59,KES,Screen Protector,completed,ERP
+TXN-293d461795,ERP-82f0dbcc71,2026-09-23,759.3,KES,Power Bank 20000mAh,completed,ERP
+TXN-1f40585fd6,ERP-ef705e9696,2026-10-28,109.86,,Bluetooth Speaker,completed,ERP
+TXN-dcdb797500,ERP-6ec60b87e1,2026-09-23,115.74,EUR,Screen Protector,completed,ERP
+TXN-27b77177f2,ERP-1803805983,2026-09-23,237.1,USD,Screen Protector,completed,ERP
+TXN-a4a2878b25,ERP-d18dd115f0,,717.4,EUR,USB-C Hub,completed,ERP
+TXN-37079cad0a,ERP-5f5b913e98,2026-09-23,79.37,USD,Express Shipping,pending,ERP
+TXN-d710179a8b,ERP-4bab68c6ac,2026-09-23,45.56,KES,Monthly Plan,completed,ERP
+TXN-e0ef8b0dbb,ERP-cd2402684f,2026-09-23,274.84,KES,Express Shipping,completed,ERP
+TXN-6f8732e14d,ERP-f6ba2db5c0,2026-09-23,830.02,KES,USB-C Hub,completed,ERP
+TXN-affa47b9e3,ERP-f1469ceb7a,2026-09-23,,KES,USB-C Hub,completed,ERP
+TXN-e44d3607b8,ERP-2b63b3dc33,2026-09-23,648.55,KES,Smart Watch Band,completed,ERP
+TXN-02f0410873,ERP-d2753fd71c,2026-09-23,828.93,USD,Gift Card 1000,completed,ERP
+TXN-36347b7b70,ERP-60395caa93,2026-09-23,,USD,USB-C Hub,completed,ERP
+TXN-10e642e71d,ERP-ef705e9696,2026-09-23,788.25,KES,Laptop Stand,completed,ERP
+TXN-7fda4fea5b,ERP-038b4385b9,2026-09-23,623.54,KES,Bluetooth Speaker,completed,ERP
+TXN-0409511f75,ERP-a8619634ad,2026-09-23,815.33,KES,Wireless Earbuds,completed,ERP
+TXN-9b2c79ec3e,ERP-75789abbc8,2026-09-23,336.16,KES,Monthly Plan,completed,ERP
+TXN-0c2b2bf958,ERP-2909679b77,2026-09-23,84.63,KES,Keyboard Cover,completed,ERP
+TXN-4b8b7dab33,ERP-1bbdfd426c,2026-09-23,765.39,KES,Keyboard Cover,completed,ERP
+TXN-42f2b2d194,ERP-35e66b199d,2026-09-23,-506.93,EUR,Keyboard Cover,completed,ERP
+TXN-04c2610c55,ERP-82be1db8d0,2026-09-23,146.37,KES,Smart Watch Band,completed,ERP
+TXN-85bb614c67,ERP-41445bd11a,2026-09-23,312.82,KES,Monthly Plan,completed,ERP
+TXN-af9c120a42,ERP-aecf71a648,2026-09-23,584.49,USD,Bluetooth Speaker,completed,ERP
+TXN-e8bcd0040f,ERP-83fcfd3eec,2026-09-23,308.71,USD,Bluetooth Speaker,completed,ERP
+TXN-3470bfaee6,ERP-0bf8f43b7d,2026-09-23,152.83,EUR,Power Bank 20000mAh,completed,ERP
+TXN-57df0ade64,ERP-72f504ddea,2026-09-23,709.87,KES,Cable Organizer,pending,ERP
+TXN-111bba5749,ERP-2dfca1ec11,2026-09-23,580.38,KES,Screen Protector,completed,ERP
+TXN-26ca7ea7b9,ERP-6ec60b87e1,2026-09-23,702.52,,Wireless Earbuds,completed,ERP
+TXN-ada25ebc50,ERP-82be1db8d0,2026-09-23,567.2,USD,Phone Case,completed,ERP
+TXN-6ea89f3158,ERP-e51cc3d23d,2026-09-23,404.84,KES,Annual Subscription,pending,ERP
+TXN-f835f66e38,ERP-4f0d1a73dc,2026-09-23,481.5,USD,Cable Organizer,completed,ERP
+TXN-74237a53db,ERP-44dd54232d,2026-09-23,483.83,USD,Bluetooth Speaker,completed,ERP
+TXN-93fa8da23d,ERP-54374dab4d,2026-09-23,400.78,KES,Bluetooth Speaker,completed,ERP
+TXN-06259c943b,ERP-1803805983,2026-09-23,669.7,USD,Cable Organizer,completed,ERP
+TXN-188dab334e,ERP-aa3308ec6d,2026-09-23,396.07,USD,Express Shipping,completed,ERP
+TXN-bba86908a1,ERP-65a6743867,2026-09-23,482.8,USD,Phone Case,pending,ERP
+TXN-9dc2bb5e80,ERP-2b6b7ece46,2026-11-06,70021.98,USD,Laptop Stand,completed,ERP
+TXN-c37ee6f63e,ERP-ef705e9696,2026-09-23,444.25,KES,Wireless Earbuds,completed,ERP
+TXN-1f6fc75545,ERP-8c0635153c,2026-09-23,716.25,KES,Annual Subscription,pending,ERP
+TXN-1a3c44bd80,ERP-0e97b59b65,2026-09-23,149.31,USD,Keyboard Cover,completed,ERP
+TXN-f718db1289,ERP-d2753fd71c,2026-09-23,594.52,KES,Bluetooth Speaker,completed,ERP
+TXN-12c00b045f,ERP-106f9167a0,2026-09-23,41.02,,Keyboard Cover,disputed,ERP
+TXN-873a3c770a,ERP-26bcd5e6f2,2026-09-23,299.76,USD,Phone Case,completed,ERP
+TXN-2752b9b8ba,ERP-5b94e63558,2026-09-23,240.2,USD,Bluetooth Speaker,completed,ERP
+TXN-a444f7fe7b,ERP-dec1355c58,2026-09-23,660.21,KES,Power Bank 20000mAh,completed,ERP
+TXN-4069b1777e,ERP-bf88ca1bde,2026-09-23,200.79,USD,Annual Subscription,completed,ERP
+TXN-a2cc670346,ERP-4f0d1a73dc,2026-09-23,620.3,KES,Phone Case,disputed,ERP
+TXN-047f5d3e15,ERP-1efbe132c4,2026-09-23,785.4,KES,Bluetooth Speaker,completed,ERP
+TXN-f8b5fba520,ERP-b3a8c1b856,2026-09-23,175.01,KES,Gift Card 1000,pending,ERP
+TXN-171ad98db7,ERP-5b94e63558,2026-09-23,759.83,KES,Screen Protector,completed,ERP
+TXN-344180a86c,ERP-2eee60958c,2026-09-23,708.38,USD,Power Bank 20000mAh,completed,ERP
+TXN-5324234e47,ERP-d3c65e6bb0,2026-09-23,485.93,KES,Phone Case,completed,ERP
+TXN-e97c9f0fa5,ERP-41445bd11a,2026-09-23,334.91,KES,Laptop Stand,pending,ERP
+TXN-99fe4065e1,ERP-f3457f4a23,2026-09-23,527.75,KES,Cable Organizer,pending,ERP
+TXN-3a8c110aaa,ERP-1bbdfd426c,2026-09-23,755.38,KES,Express Shipping,completed,ERP
+TXN-06b6417177,ERP-2ed6eb4899,2026-09-23,769.15,USD,Wireless Earbuds,completed,ERP
+TXN-b69b89d865,ERP-0d1916600d,2026-09-23,804.88,KES,Wireless Earbuds,completed,ERP
+TXN-7b91de6ced,ERP-46fb25b424,2026-09-23,23.12,KES,Gift Card 1000,completed,ERP
+TXN-0a383afddc,ERP-933fbe2566,2026-09-23,652.0,USD,Bluetooth Speaker,completed,ERP
+TXN-9b2f266eda,ERP-72f504ddea,2026-09-23,,KES,Cable Organizer,completed,ERP
+TXN-254585f757,ERP-4557cce138,2026-09-23,742.9,KES,Wireless Earbuds,completed,ERP
+TXN-f6f69e455e,ERP-65a6743867,2026-09-23,114.61,KES,Annual Subscription,completed,ERP
+TXN-59d0bdee5b,ERP-0617daa491,2026-09-23,379.79,KES,Screen Protector,completed,ERP
+TXN-472a670c6d,ERP-9497e65085,2026-09-23,297.91,KES,Keyboard Cover,refunded,ERP
+TXN-ad157c4022,ERP-26bcd5e6f2,2026-09-23,108.72,USD,Wireless Earbuds,pending,ERP
+TXN-DUP-bec1daf998,ERP-abd3cf8203,2026-09-23,10.37,KES,Annual Subscription,completed,ERP
+TXN-DUP-59ea683b1f,ERP-1803805983,2026-09-24,76.22,KES,Monthly Plan,completed,ERP
+TXN-DUP-40b673e69b,ERP-6ca8d7d8e7,2026-09-23,254.32,KES,Wireless Earbuds,completed,ERP
+TXN-DUP-cdbf2f1392,ERP-d3c65e6bb0,2026-09-22,485.93,KES,Phone Case,completed,ERP
+TXN-DUP-559d09e54d,ERP-bc5b633176,2026-09-23,729.94,USD,Keyboard Cover,completed,ERP
+TXN-DUP-02b33b3e14,ERP-1803805983,2026-09-25,76.22,KES,Monthly Plan,completed,ERP
+TXN-DUP-27e9b8431e,ERP-6ca8d7d8e7,2026-09-23,254.32,KES,Wireless Earbuds,completed,ERP
+TXN-DUP-e4a8e35bbd,ERP-53de999693,2026-09-23,38.23,KES,Monthly Plan,completed,ERP

@@ -1,0 +1,1792 @@
+[
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-2d31fd99ba",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Collins Acnieng",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-3a956eb3fd",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "0777-839-607",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "CRM-d461a22d61",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-03",
+    "entity_type": "customer",
+    "record_id": "CRM-171824a501",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": null,
+    "note": "Missing email",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-02",
+    "entity_type": "customer",
+    "record_id": "CRM-171824a501",
+    "source": "CRM",
+    "field": "email+phone",
+    "injected_value": null,
+    "note": "Missing both email and phone",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "CRM-6f67d9427a",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-b41bd01695",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "0710-404-729",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-03",
+    "entity_type": "customer",
+    "record_id": "CRM-1803fbb6a6",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": null,
+    "note": "Missing email",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-02",
+    "entity_type": "customer",
+    "record_id": "CRM-1803fbb6a6",
+    "source": "CRM",
+    "field": "email+phone",
+    "injected_value": null,
+    "note": "Missing both email and phone",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-108fc061f7",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Sheyri Frazier",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-ffa4d82873",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Kiptoo rdhiambo",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-0ca7353094",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "+254 725 745 913",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-03",
+    "entity_type": "customer",
+    "record_id": "CRM-68c94b0846",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": null,
+    "note": "Missing email",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-03",
+    "entity_type": "customer",
+    "record_id": "CRM-dd63e58c2a",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": null,
+    "note": "Missing email",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-dd63e58c2a",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Njeri Kipchpge",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-006c034af8",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "ochieng.kipchoge96@example.com ",
+    "note": "Invalid email (was ochieng.kipchoge96@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-7ff6f4fa3c",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Kariuki Onyzngo",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-eb09901991",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "erik..watson61@example.com",
+    "note": "Invalid email (was erik.watson61@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-47211e0c1f",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "gina.leblanc17@example.com ",
+    "note": "Invalid email (was gina.leblanc17@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "CRM-cfa8848c05",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-2031e4c15f",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "melissa.jenkins79@example.com ",
+    "note": "Invalid email (was melissa.jenkins79@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-47e4137c0a",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Otieno Njoroge",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "CRM-cb99bf8240",
+    "source": "CRM",
+    "field": "date_of_birth",
+    "injected_value": "2026-12-30",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-67d7e5ba47",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "0752-476-240",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-0dcf7545e6",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Broan Cheruiyot",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "CRM-93be56324d",
+    "source": "CRM",
+    "field": "date_of_birth",
+    "injected_value": "2026-10-29",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "CRM-da130a3ccd",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-6486a9734f",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Bhian Njoroge",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-94d9da904f",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "nathaniel.miles17@example.com ",
+    "note": "Invalid email (was nathaniel.miles17@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-94d9da904f",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "254760502752",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "CRM-c034fe2475",
+    "source": "CRM",
+    "field": "full_name",
+    "injected_value": "Gface Mutua",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-568aa46d70",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "0758-199-211",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "CRM-620026ed0c",
+    "source": "CRM",
+    "field": "phone",
+    "injected_value": "254739396392",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "CRM-7870f4e1d6",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": "marie.davis24@example.com ",
+    "note": "Invalid email (was marie.davis24@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-03",
+    "entity_type": "customer",
+    "record_id": "CRM-f16c8f5d31",
+    "source": "CRM",
+    "field": "email",
+    "injected_value": null,
+    "note": "Missing email",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-02",
+    "entity_type": "customer",
+    "record_id": "CRM-f16c8f5d31",
+    "source": "CRM",
+    "field": "email+phone",
+    "injected_value": null,
+    "note": "Missing both email and phone",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-be51853b2f",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Collins xchieng",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "ERP-cd2402684f",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "dennis.achieng45@example.com ",
+    "note": "Invalid email (was dennis.achieng45@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-5b94e63558",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1890-11-06",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "ERP-5b94e63558",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1890-11-06",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "ERP-9a6034c112",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-f1469ceb7a",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2027-02-28",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-31bb73d117",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2026-12-30",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "ERP-cc3838ad22",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "emily.floyd72example.com",
+    "note": "Invalid email (was emily.floyd72@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-7a237c0b7e",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Frederick pose",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-5c3818f8c9",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1890-09-28",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "ERP-5c3818f8c9",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1890-09-28",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-4760f76def",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Mercy Mukua",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-a167766301",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2027-09-13",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-db2e1c4d45",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2027-10-02",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "ERP-48fa610c27",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "254754522084",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-d235b00fb5",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Katrina Brcker",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-9250cc74e9",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2027-02-14",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "ERP-12113c387d",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "2027-09-03",
+    "note": "Future DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-82be1db8d0",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Nyokabb Mwangi",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-4a086af8c2",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Otieno etieno",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-53de999693",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Atieno Chetuiyot",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-4293bc841b",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Stevzn Elliott",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-e2ee723dbd",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "KeithjSullivan",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "ERP-5de73d943f",
+    "source": "ERP",
+    "field": "full_name",
+    "injected_value": "Hunter Barch",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "ERP-5072b2ff93",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254 721 655 844",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "MKT-b259c5c57f",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-01-28",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "MKT-b259c5c57f",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-01-28",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "MKT-faab86acfa",
+    "source": "MKT",
+    "field": "email",
+    "injected_value": "otieno.mwangi45example.com",
+    "note": "Invalid email (was otieno.mwangi45@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-4259638498",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Kiptoo Wabbui",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "MKT-52e6bcb846",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-03-12",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "MKT-52e6bcb846",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-03-12",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "MKT-b26134001c",
+    "source": "MKT",
+    "field": "phone",
+    "injected_value": "+254 747 864 772",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-4cbe39ed6f",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Rorert Clark",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-1e3674b9d4",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Brian Njoroge",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-7ac1303074",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Dennis Ayhieng",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "MKT-7ec0a52e5b",
+    "source": "MKT",
+    "field": "phone",
+    "injected_value": "254757232974",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-268ef5f050",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Dylan Wilviams",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "MKT-66f4df6737",
+    "source": "MKT",
+    "field": "phone",
+    "injected_value": "0765-437-830",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-5036d12fc5",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Onxango Kipchoge",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-01",
+    "entity_type": "customer",
+    "record_id": "MKT-92770f3e29",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": null,
+    "note": "Missing full name",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-02",
+    "entity_type": "customer",
+    "record_id": "MKT-536e83df55",
+    "source": "MKT",
+    "field": "phone",
+    "injected_value": "+254 772 395 893",
+    "note": "Non-standard phone format",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "MKT-e5d2cddd4d",
+    "source": "MKT",
+    "field": "email",
+    "injected_value": "njoroge..ochieng45@example.com",
+    "note": "Invalid email (was njoroge.ochieng45@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-2ddc3b2391",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Chatles Soto",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "MKT-8dbe8d1def",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-09-04",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "MKT-8dbe8d1def",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-09-04",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-57538d4e91",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Karwuki Onyango",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-e6c76e08e9",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Nyokabi Mwangi",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "CONS-04",
+    "entity_type": "customer",
+    "record_id": "MKT-adfeaf5fa8",
+    "source": "MKT",
+    "field": "full_name",
+    "injected_value": "Eripa Orr",
+    "note": "Name variation / typo",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-03",
+    "entity_type": "customer",
+    "record_id": "MKT-81d412d1e4",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-08-22",
+    "note": "Implausible old DOB",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-02",
+    "entity_type": "customer",
+    "record_id": "MKT-81d412d1e4",
+    "source": "MKT",
+    "field": "date_of_birth",
+    "injected_value": "1890-08-22",
+    "note": "Implausible age",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "MKT-4c35fb66ac",
+    "source": "MKT",
+    "field": "email",
+    "injected_value": "kipchoge.wekesa9@mail",
+    "note": "Invalid email (was kipchoge.wekesa9@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-01",
+    "entity_type": "customer",
+    "record_id": "MKT-1700712987",
+    "source": "MKT",
+    "field": "email",
+    "injected_value": "akinyi.kamau77example.com",
+    "note": "Invalid email (was akinyi.kamau77@example.com)",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "CRM-DUP-61942e2c37",
+    "source": "CRM",
+    "field": "email/phone",
+    "injected_value": "odhiambo.wekesa99@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "CRM-DUP-68e870d7c2",
+    "source": "CRM",
+    "field": "email/phone",
+    "injected_value": "mercy.wekesa99@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "CRM-DUP-87542588d8",
+    "source": "CRM",
+    "field": "email/phone",
+    "injected_value": "joseph.hoffman42@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "CRM-DUP-1a834a0c41",
+    "source": "CRM",
+    "field": "email/phone",
+    "injected_value": null,
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "CRM-DUP-de9c40c7d0",
+    "source": "CRM",
+    "field": "email/phone",
+    "injected_value": "warren.carr38@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-f63da735bc",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "brian.odhiambo87@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-252049e2c8",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "shane.ferguson95@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-7b8c10e159",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "onyango.kipchoge42@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-2f3ef9d749",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "otieno.otieno17@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-1a4d7a7f6f",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "nyokabi.nyokabi61@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "UNIQ-01",
+    "entity_type": "customer",
+    "record_id": "MKT-DUP-e82f9aad39",
+    "source": "MKT",
+    "field": "email/phone",
+    "injected_value": "lucas.long40@example.com",
+    "note": "Exact duplicate within source",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-0d1916600d",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254760975999",
+    "note": "Conflicts with CRM phone +254767723010",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-94d8b906c1",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-4a@elsewhere.com",
+    "note": "Conflicts with CRM email kiptoo.kimani11@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-94d8b906c1",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254773698335",
+    "note": "Conflicts with CRM phone +254730881581",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-03",
+    "entity_type": "customer",
+    "record_id": "ERP-b3a8c1b856",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1985-02-05",
+    "note": "Conflicts with CRM DOB 2004-10-14",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-99df1f3ad0",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254781194737",
+    "note": "Conflicts with CRM phone +254764547971",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-9cd682f6db",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-2c@elsewhere.com",
+    "note": "Conflicts with CRM email otieno.kiptoo16@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-9cd682f6db",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254711592230",
+    "note": "Conflicts with CRM phone 0759470729",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-03",
+    "entity_type": "customer",
+    "record_id": "ERP-6ec60b87e1",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1994-08-04",
+    "note": "Conflicts with CRM DOB 1960-11-11",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-d18dd115f0",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-fd@elsewhere.com",
+    "note": "Conflicts with CRM email njeri.kiptoo99@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-d18dd115f0",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254761271721",
+    "note": "Conflicts with CRM phone +254727232410",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-03",
+    "entity_type": "customer",
+    "record_id": "ERP-dec1355c58",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1974-10-31",
+    "note": "Conflicts with CRM DOB 1986-08-10",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-83fcfd3eec",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-47@elsewhere.com",
+    "note": "Conflicts with CRM email otieno.njoroge17@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-4b17b16b61",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-42@elsewhere.com",
+    "note": "Conflicts with CRM email nancy.jones60@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-03",
+    "entity_type": "customer",
+    "record_id": "ERP-d80555b578",
+    "source": "ERP",
+    "field": "date_of_birth",
+    "injected_value": "1974-05-20",
+    "note": "Conflicts with CRM DOB 1995-05-11",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "CONS-01",
+    "entity_type": "customer",
+    "record_id": "ERP-e2ee723dbd",
+    "source": "ERP",
+    "field": "email",
+    "injected_value": "conflict.CRM-49@elsewhere.com",
+    "note": "Conflicts with CRM email keith.sullivan71@example.com",
+    "severity": "High"
+  },
+  {
+    "rule_id": "CONS-02",
+    "entity_type": "customer",
+    "record_id": "ERP-e2ee723dbd",
+    "source": "ERP",
+    "field": "phone",
+    "injected_value": "+254791937985",
+    "note": "Conflicts with CRM phone 0726948946",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-507db24bb7",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-507db24bb7",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": null,
+    "note": "Missing date",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-2e4e579945",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-9419d69586",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "69592.27",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-9419d69586",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "69592.27",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-546356736d",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-1cef25988e",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-2190ccf5a2",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-10-15",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-86e1fe4d94",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-e4d63909d4",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "-837.29",
+    "note": "Negative amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-5297ecb7e3",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": "KES.",
+    "note": "Invalid currency code",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-aa5417d2fe",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-5b92c9c2ac",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-ce1b3d5261",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "57223.34",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-ce1b3d5261",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "57223.34",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-ad5652825b",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-11-03",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-a4b2e3cac9",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": "XXX",
+    "note": "Invalid currency code",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-656d8d79cc",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": "XXX",
+    "note": "Invalid currency code",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-d827033e6b",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "-224.38",
+    "note": "Negative amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-1460df7438",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": "KES.",
+    "note": "Invalid currency code",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-d411323de6",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "80784.71",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-d411323de6",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "80784.71",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-b3a5751a03",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "75715.28",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-b3a5751a03",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "75715.28",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-b18ba03dd3",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-1ee7d34be4",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-11-05",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-0cd2d1b7c6",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-7696e50b3d",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": null,
+    "note": "Missing date",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-e30c7da938",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-2b483745f3",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": null,
+    "note": "Missing date",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-ac7535d8f0",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": "KES.",
+    "note": "Invalid currency code",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-24336a290b",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "-90.63",
+    "note": "Negative amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-0a7fe17090",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-cddcfffbd4",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-10-21",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-a02dea20d9",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "45719.24",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-a02dea20d9",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "45719.24",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-7406c2c8b7",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-278fcdae69",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "33134.01",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-278fcdae69",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "33134.01",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-16c0343d87",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "81600.87",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-16c0343d87",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "81600.87",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-d784b8314c",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-80d6f2a1b1",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-b42d405b96",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-1f40585fd6",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-1f40585fd6",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-10-28",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-05",
+    "entity_type": "transaction",
+    "record_id": "TXN-a4a2878b25",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": null,
+    "note": "Missing date",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-affa47b9e3",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-36347b7b70",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-42f2b2d194",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "-506.93",
+    "note": "Negative amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-26ca7ea7b9",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "VAL-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-9dc2bb5e80",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "70021.98",
+    "note": "Extreme amount",
+    "severity": "High"
+  },
+  {
+    "rule_id": "ANOM-01",
+    "entity_type": "transaction",
+    "record_id": "TXN-9dc2bb5e80",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": "70021.98",
+    "note": "Amount outlier",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "VAL-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-9dc2bb5e80",
+    "source": "ERP",
+    "field": "transaction_date",
+    "injected_value": "2026-11-06",
+    "note": "Future transaction date",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-06",
+    "entity_type": "transaction",
+    "record_id": "TXN-12c00b045f",
+    "source": "ERP",
+    "field": "currency",
+    "injected_value": null,
+    "note": "Missing currency",
+    "severity": "High"
+  },
+  {
+    "rule_id": "COMP-04",
+    "entity_type": "transaction",
+    "record_id": "TXN-9b2f266eda",
+    "source": "ERP",
+    "field": "amount",
+    "injected_value": null,
+    "note": "Missing amount",
+    "severity": "Critical"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-bec1daf998",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "10.37",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-59ea683b1f",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "76.22",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-40b673e69b",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "254.32",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-cdbf2f1392",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "485.93",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-559d09e54d",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "729.94",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-02b33b3e14",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "76.22",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-27e9b8431e",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "254.32",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  },
+  {
+    "rule_id": "UNIQ-03",
+    "entity_type": "transaction",
+    "record_id": "TXN-DUP-e4a8e35bbd",
+    "source": "ERP",
+    "field": "amount+date",
+    "injected_value": "38.23",
+    "note": "Potential duplicate transaction",
+    "severity": "Medium"
+  }
+]

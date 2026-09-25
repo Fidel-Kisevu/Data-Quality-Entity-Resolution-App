@@ -1,0 +1,157 @@
+source_customer_id,full_name,first_name,last_name,email,phone,date_of_birth,address_line1,city,country,status,source_system
+ERP-2909679b77,Christine Johnson,Christine,Johnson,christine.johnson30@example.com,0795618110,2002-12-22,473 Evans Cliffs Apt. 276,Eldoret,KE,active,ERP
+ERP-aa3308ec6d,Achieng Wambui,Achieng,Wambui,achieng.wambui95@example.com,+254718181586,1991-11-20,214 Davis Terrace Apt. 433,Thika,KE,active,ERP
+ERP-35e66b199d,Odhiambo Achieng,Odhiambo,Achieng,odhiambo.achieng54@example.com,+254737760841,2004-03-18,74740 Santana Springs,London,KE,inactive,ERP
+ERP-4557cce138,Deborah Moore,Deborah,Moore,deborah.moore1@example.com,+254767062156,2005-03-29,467 Sanchez Plaza Apt. 639,Nakuru,KE,active,ERP
+ERP-8502475eb9,JUSTIN OWENS,Justin,Owens,justin.owens89@example.com,0713886030,1990-06-27,5877 Leah Stravenue Suite 535,Kisumu,KE,active,ERP
+ERP-be51853b2f,Collins xchieng,Collins,Achieng,collins.achieng10@example.com,+254741329612,2002-02-26,92546 Brooke Corner Suite 865,Eldoret,KE,active,ERP
+ERP-70512fe8eb,Odhiambo Wekesa,Odhiambo,Wekesa,odhiambo.wekesa99@example.com,+254755657579,2001-09-16,60647 Henderson Street,Mombasa,KE,active,ERP
+ERP-1efbe132c4,"Ochieng, Ochieng",Ochieng,Ochieng,ochieng.ochieng75@example.com,+254751870192,2007-02-02,39005 Vanessa Turnpike Apt. 183,London,KE,inactive,ERP
+ERP-e51cc3d23d,Odhiambo Mwangi,Odhiambo,Mwangi,odhiambo.mwangi35@example.com,0791178885,2008-09-26,10033 Christine Garden Apt. 719,Nakuru,KE,active,ERP
+ERP-1531dee915,Nyokabi Kariuki,Nyokabi,Kariuki,nyokabi.kariuki69@example.com,0728814949,1975-01-09,850 Natalie Green Apt. 940,London,GB,active,ERP
+ERP-c881213264,Tiffany Hodges,Tiffany,Hodges,tiffany.hodges31@example.com,0755076693,1993-05-09,2400 Flynn Hill,Thika,KE,inactive,ERP
+ERP-500c94d47f,Melanie Simmons,Melanie,Simmons,melanie.simmons35@example.com,+254782232344,1962-05-22,15921 Joshua Roads Suite 698,New York,KE,active,ERP
+ERP-9cd682f6db,Otieno Kiptoo,Otieno,Kiptoo,conflict.CRM-2c@elsewhere.com,+254711592230,1968-06-17,3757 Castro Underpass Suite 419,Eldoret,KE,active,ERP
+ERP-9497e65085,Collins Atieno,Collins,Atieno,collins.atieno15@example.com,+254763782042,2003-11-08,2312 Gonzalez Rapids Apt. 127,New York,US,active,ERP
+ERP-91f2e0f5ec,Onyango Otieno,Onyango,Otieno,onyango.otieno25@example.com,+254758557203,1972-06-04,69711 Carlson Brook,New York,KE,active,ERP
+ERP-7d0b8f3068,"Johnson, Danielle",Danielle,Johnson,danielle.johnson4@example.com,+254746913810,1971-01-26,18196 Anthony Forge,Nakuru,KE,active,ERP
+ERP-db9134a1b8,Carrie Morales,Carrie,Morales,carrie.morales85@example.com,+254728358198,1958-11-14,57872 Mark Ridge,Mombasa,KE,inactive,ERP
+ERP-4648a7fbe1,Joseph Hoffman,Joseph,Hoffman,joseph.hoffman42@example.com,+254739711402,1970-11-22,933 Elizabeth Pines,Mombasa,KE,active,ERP
+ERP-d3c65e6bb0,Kariuki Atieno,Kariuki,Atieno,kariuki.atieno14@example.com,+254761185849,1994-04-02,78774 Johnson Lock,Thika,KE,active,ERP
+ERP-f3c1fc1649,Otieno Mwangi,Otieno,Mwangi,otieno.mwangi45@example.com,+254742787299,2001-02-15,893 Robinson Mews Suite 065,Thika,KE,active,ERP
+ERP-abd3cf8203,David Roberts,David,Roberts,david.roberts74@example.com,+254761536717,2002-07-20,09324 Andrea Course Apt. 171,New York,KE,active,ERP
+ERP-6ca8d7d8e7,Njeri Wekesa,Njeri,Wekesa,njeri.wekesa57@example.com,+254766910299,1957-02-13,08484 Wayne Square Suite 211,New York,KE,active,ERP
+ERP-5e1e80912c,Kimberly Henson,Kimberly,Henson,kimberly.henson74@example.com,0742614537,1977-11-23,22602 Patton Loop,New York,KE,active,ERP
+ERP-7758012177,Joseph Rivera,Joseph,Rivera,joseph.rivera30@example.com,0729804386,1987-01-17,5301 Parker Lodge,Nairobi,KE,active,ERP
+ERP-26e7323705,Rita Harrell,Rita,Harrell,rita.harrell88@example.com,+254719583482,1972-04-14,52880 Burns Creek,Kisumu,KE,active,ERP
+ERP-1e865830d2,MWANGI NYOKABI,Mwangi,Nyokabi,mwangi.nyokabi65@example.com,0732084778,1965-08-21,30913 Scott Manor Apt. 636,Eldoret,KE,inactive,ERP
+ERP-60395caa93,Jesse Guzman,Jesse,Guzman,jesse.guzman87@example.com,+254783197857,1985-12-10,79402 Peterson Drives Apt. 511,Mombasa,KE,active,ERP
+ERP-9b955aef69,Wambui Wambui,Wambui,Wambui,wambui.wambui27@example.com,+254784384510,1966-05-19,5304 Young Terrace,Nakuru,KE,active,ERP
+ERP-4bab68c6ac,Ryan Carney,Ryan,Carney,ryan.carney70@example.com,0771115319,1966-02-26,1154 Griffin Stravenue Suite 275,Thika,KE,inactive,ERP
+ERP-fa2fd44f0a,Kamau Njeri,Kamau,Njeri,kamau.njeri71@example.com,+254731009452,2003-07-02,182 John Mill Suite 889,Nairobi,KE,active,ERP
+ERP-ef705e9696,O. Onyango,Odhiambo,Onyango,odhiambo.onyango78@example.com,+254793002706,1975-01-24,7700 Decker Club,Nakuru,KE,active,ERP
+ERP-d18dd115f0,Njeri Kiptoo,Njeri,Kiptoo,conflict.CRM-fd@elsewhere.com,+254761271721,1957-04-05,83842 Ibarra Gardens,New York,GB,active,ERP
+ERP-cd2402684f,Dennis Achieng,Dennis,Achieng,dennis.achieng45@example.com ,0740547349,1966-09-24,9894 Marissa Hill Apt. 524,Nakuru,KE,active,ERP
+ERP-304db3fe27,"Njeri, Akinyi",Akinyi,Njeri,akinyi.njeri53@example.com,+254734073380,1990-05-05,0143 Holt Inlet Suite 788,Thika,KE,active,ERP
+ERP-42ef5a2979,Brian Odhiambo,Brian,Odhiambo,brian.odhiambo87@example.com,+254763339667,1984-01-31,78585 Bishop Fields Apt. 484,Lagos,NG,active,ERP
+ERP-5b94e63558,Robert Clark,Robert,Clark,robert.clark10@example.com,+254771510041,1890-11-06,670 Evans Loaf,Mombasa,KE,active,ERP
+ERP-9a6034c112,,,,jessica.gallagher96@example.com,+254791390501,1975-10-17,98358 Jones Parkways Suite 849,New York,NG,active,ERP
+ERP-3414360547,Robert Monroe,Robert,Monroe,robert.monroe36@example.com,+254759731689,2005-04-22,7240 Kenneth Rapids,Nakuru,KE,active,ERP
+ERP-a21eaf7699,Elizabeth Mckinney,Elizabeth,Mckinney,elizabeth.mckinney44@example.com,+254763349308,1985-05-10,2258 David Flats Apt. 370,Mombasa,KE,inactive,ERP
+ERP-b51f609cb3,Dennis Mutua,Dennis,Mutua,dennis.mutua31@example.com,+254742329237,1986-02-24,3534 Anderson Rue Suite 751,Mombasa,KE,active,ERP
+ERP-bf88ca1bde,Todd Harris,Todd,Harris,todd.harris60@example.com,0783363160,1988-04-20,556 Kathleen Passage Apt. 537,Kisumu,KE,active,ERP
+ERP-222ac75442,Kipchoge Ochieng,Kipchoge,Ochieng,kipchoge.ochieng99@example.com,0779067939,1970-01-28,986 Kimberly Freeway,Nairobi,KE,active,ERP
+ERP-7073857e0b,William Levy,William,Levy,william.levy38@example.com,+254798346110,1967-12-16,04797 Herrera Vista Apt. 624,London,NG,active,ERP
+ERP-5f5b913e98,C. Marshall,Cynthia,Marshall,cynthia.marshall97@example.com,+254743189803,1993-03-17,20047 Colton Plain Apt. 675,Nakuru,KE,inactive,ERP
+ERP-4f0d1a73dc,Wekesa Ochieng,Wekesa,Ochieng,wekesa.ochieng13@example.com,+254782148284,2007-08-05,7734 Mitchell Circle,Kisumu,KE,active,ERP
+ERP-94d8b906c1,Kiptoo Kimani,Kiptoo,Kimani,conflict.CRM-4a@elsewhere.com,+254773698335,1960-04-23,38750 Hopkins Brook,Kisumu,KE,active,ERP
+ERP-d6378c9b54,Joy Wambui,Joy,Wambui,joy.wambui37@example.com,0726690465,1996-08-06,622 Marie Trail,New York,NG,active,ERP
+ERP-7fc842d15e,Wanjiku Wambui,Wanjiku,Wambui,wanjiku.wambui71@example.com,+254788979095,1970-06-30,0164 Adam Trail Apt. 427,Nakuru,KE,active,ERP
+ERP-2eee60958c,Brian Njoroge,Brian,Njoroge,brian.njoroge36@example.com,0743859311,1995-07-28,71236 Davis Locks Apt. 481,Mombasa,KE,active,ERP
+ERP-14445e7958,Sherri Frazier,Sherri,Frazier,sherri.frazier21@example.com,0757683626,1962-09-24,514 Moore Alley Suite 828,Nakuru,KE,active,ERP
+ERP-a0c708891b,Kiptoo Odhiambo,Kiptoo,Odhiambo,kiptoo.odhiambo14@example.com,+254750477742,1987-04-01,2904 Vanessa Plains,Mombasa,KE,active,ERP
+ERP-ef75f4faa5,C. Wanjiru,Collins,Wanjiru,collins.wanjiru98@example.com,+254766722344,2000-02-14,5341 Amanda Gardens,Thika,KE,active,ERP
+ERP-f1469ceb7a,Odhiambo Mutua,Odhiambo,Mutua,odhiambo.mutua81@example.com,+254758537831,2027-02-28,87101 Courtney Turnpike,Nakuru,KE,active,ERP
+ERP-26bcd5e6f2,KENNETH WAGNER,Kenneth,Wagner,kenneth.wagner35@example.com,0742949803,1979-02-18,836 Beasley Loop,Mombasa,KE,active,ERP
+ERP-978a114363,Cheruiyot Wekesa,Cheruiyot,Wekesa,cheruiyot.wekesa72@example.com,+254779340535,1987-12-23,98327 Melanie Keys Suite 149,Nakuru,KE,active,ERP
+ERP-31bb73d117,Mark Steele,Mark,Steele,mark.steele80@example.com,0722534217,2026-12-30,071 King Crescent Suite 808,Nakuru,KE,active,ERP
+ERP-0617daa491,Achieng Njeri,Achieng,Njeri,achieng.njeri49@example.com,+254762401521,1994-03-06,465 Terry Plaza Apt. 366,Eldoret,KE,inactive,ERP
+ERP-b3a8c1b856,"Onyango, Ochieng",Ochieng,Onyango,ochieng.onyango42@example.com,0749682169,1985-02-05,1832 Serrano Cliffs,Lagos,GB,active,ERP
+ERP-46fb25b424,Njeri Kipchoge,Njeri,Kipchoge,njeri.kipchoge74@example.com,0786960402,1968-08-19,2961 Yates Station Apt. 142,London,KE,active,ERP
+ERP-85eb4deccd,Ochieng Kipchoge,Ochieng,Kipchoge,ochieng.kipchoge96@example.com,0733574011,1991-10-16,409 Baker Shoal Apt. 097,Nakuru,KE,active,ERP
+ERP-8c0635153c,Odhiambo Mutua,Odhiambo,Mutua,odhiambo.mutua79@example.com,+254780993218,1991-07-15,272 Rebecca Ramp Apt. 162,Nairobi,KE,active,ERP
+ERP-0e97b59b65,Joy Kiptoo,Joy,Kiptoo,joy.kiptoo69@example.com,0788461803,1960-06-19,10518 Joshua Oval,London,KE,active,ERP
+ERP-cc3838ad22,Emily Floyd,Emily,Floyd,emily.floyd72example.com,+254754244334,1973-05-04,2462 Allen Fork Suite 270,Mombasa,KE,active,ERP
+ERP-a8619634ad,Kariuki Onyango,Kariuki,Onyango,kariuki.onyango59@example.com,0731127115,1984-01-02,006 Megan Fort,Thika,KE,active,ERP
+ERP-41445bd11a,Richard Morgan,Richard,Morgan,richard.morgan20@example.com,+254731472420,2001-07-21,38726 Joshua Gateway,London,US,active,ERP
+ERP-0e52bbbbd5,Jeremy Patterson,Jeremy,Patterson,jeremy.patterson63@example.com,+254742255732,1985-12-05,402 Park Inlet,New York,KE,active,ERP
+ERP-a21f90a2e4,ERIK WATSON,Erik,Watson,erik.watson61@example.com,0714380847,1971-06-24,9051 Davis Springs Suite 449,Nakuru,KE,active,ERP
+ERP-e6048a91e7,Krystal Norris,Krystal,Norris,krystal.norris46@example.com,+254763293990,1960-11-07,16315 Novak Islands Apt. 477,Nairobi,KE,active,ERP
+ERP-7a237c0b7e,Frederick pose,Frederick,Rose,frederick.rose8@example.com,+254714308421,1988-04-19,346 Kim Path,Thika,KE,active,ERP
+ERP-aecf71a648,Dennis Achieng,Dennis,Achieng,dennis.achieng91@example.com,+254768450095,2005-11-26,847 Bruce Neck,Kisumu,KE,active,ERP
+ERP-063f43b4b6,JESSICA SHEPPARD,Jessica,Sheppard,jessica.sheppard20@example.com,+254714835614,1970-10-24,6945 Mariah Corners Suite 737,Thika,KE,active,ERP
+ERP-1e3550a3a3,Njoroge Wambui,Njoroge,Wambui,njoroge.wambui43@example.com,+254769096899,1963-12-07,5431 Jill Parks Suite 814,Mombasa,KE,active,ERP
+ERP-6ec60b87e1,Ryan Morales,Ryan,Morales,ryan.morales61@example.com,0769118721,1994-08-04,535 Charles Roads Apt. 883,Thika,KE,active,ERP
+ERP-5c3818f8c9,Mercy Wekesa,Mercy,Wekesa,mercy.wekesa99@example.com,0732520277,1890-09-28,1585 Raymond Field,Mombasa,KE,active,ERP
+ERP-65a6743867,Mutua Mutua,Mutua,Mutua,mutua.mutua76@example.com,0750987442,1990-04-11,986 Carpenter Turnpike,Nairobi,KE,active,ERP
+ERP-4760f76def,Mercy Mukua,Mercy,Mutua,mercy.mutua84@example.com,0725659979,1968-07-03,16571 Adam Plaza,Kisumu,KE,active,ERP
+ERP-44dd54232d,"Onyango, Kevin",Kevin,Onyango,kevin.onyango44@example.com,+254745859307,1977-06-21,0345 Michelle Isle Suite 156,Nairobi,KE,active,ERP
+ERP-1803805983,Grace Odhiambo,Grace,Odhiambo,grace.odhiambo35@example.com,+254724508349,1974-08-22,7444 David Fields Suite 182,London,US,inactive,ERP
+ERP-aeef54526c,Michael Armstrong,Michael,Armstrong,michael.armstrong69@example.com,0752501540,1981-01-24,114 Key Stravenue,New York,US,active,ERP
+ERP-a167766301,Dylan Williams,Dylan,Williams,dylan.williams65@example.com,+254731130263,2027-09-13,6936 Ross Drive,Nairobi,KE,unknown,ERP
+ERP-7b04792af9,Kevin Oliver,Kevin,Oliver,kevin.oliver1@example.com,+254782269803,1988-06-15,34123 Andrea Estate,Nakuru,KE,active,ERP
+ERP-5c43ced908,Ashley Lopez,Ashley,Lopez,ashley.lopez31@example.com,+254731257157,1991-07-02,88888 Peter Mountains Apt. 654,Eldoret,KE,active,ERP
+ERP-d1b3f2409b,Wambui Achieng,Wambui,Achieng,wambui.achieng86@example.com,+254785017682,1981-12-11,867 Kane Square Apt. 963,Thika,KE,unknown,ERP
+ERP-d80555b578,Grace Cheruiyot,Grace,Cheruiyot,grace.cheruiyot57@example.com,+254770597444,1974-05-20,4935 Grace Walk,Mombasa,KE,active,ERP
+ERP-0a3b8cc78c,B. Nyokabi,Brian,Nyokabi,brian.nyokabi63@example.com,+254742111036,1976-07-10,780 Jimmy Spur Suite 316,Eldoret,KE,active,ERP
+ERP-1bbdfd426c,Brian Sparks,Brian,Sparks,brian.sparks49@example.com,+254733357554,1987-09-12,1746 Mason Park Suite 190,Eldoret,KE,active,ERP
+ERP-ef9edc7da8,Faith Nyokabi,Faith,Nyokabi,faith.nyokabi78@example.com,+254730513739,2004-07-20,81219 Emma Freeway,Thika,KE,active,ERP
+ERP-72f504ddea,Otieno Otieno,Otieno,Otieno,otieno.otieno17@example.com,+254766500369,1962-08-10,822 Bond Mills,Lagos,US,active,ERP
+ERP-6489ce77ed,Brian Kipchoge,Brian,Kipchoge,brian.kipchoge14@example.com,+254760992979,1965-04-08,8350 Lydia Valley Suite 641,Mombasa,KE,active,ERP
+ERP-57dd0cf90f,Gina Leblanc,Gina,Leblanc,gina.leblanc17@example.com,+254743642236,2002-11-29,145 Jeffrey Dale Suite 279,Kisumu,KE,active,ERP
+ERP-e0acf26d0c,David Key,David,Key,david.key99@example.com,+254792352411,1981-08-30,936 Andrea Trail,Lagos,US,active,ERP
+ERP-54374dab4d,"Thompson, John",John,Thompson,john.thompson6@example.com,0781503856,1991-02-16,05395 Grant Center,London,NG,active,ERP
+ERP-cbfa80ef3f,Anna Faulkner,Anna,Faulkner,anna.faulkner97@example.com,0716904975,1985-09-26,3435 Sandra Vista,Eldoret,KE,active,ERP
+ERP-ff29cb37c5,Kamau Wekesa,Kamau,Wekesa,kamau.wekesa86@example.com,0738754377,1979-02-10,5053 Elizabeth Knoll,Lagos,GB,active,ERP
+ERP-28259da44d,Onyango Kipchoge,Onyango,Kipchoge,onyango.kipchoge42@example.com,+254724039158,1959-07-18,61530 Galvan Villages Suite 220,Kisumu,KE,active,ERP
+ERP-99df1f3ad0,Aaron Frost,Aaron,Frost,aaron.frost31@example.com,+254781194737,1984-10-03,6159 Alvarado Crossing,New York,KE,active,ERP
+ERP-728440e439,Craig Johnson,Craig,Johnson,craig.johnson52@example.com,0722762205,1987-11-03,06738 Karen Trail,Thika,KE,active,ERP
+ERP-038b4385b9,Shawn Chambers,Shawn,Chambers,shawn.chambers7@example.com,0740094589,1991-09-19,513 Johnson Points Suite 931,Mombasa,KE,active,ERP
+ERP-d2753fd71c,Odhiambo Mwangi,Odhiambo,Mwangi,odhiambo.mwangi50@example.com,+254790447099,2005-10-23,3030 Mahoney Passage,Lagos,GB,inactive,ERP
+ERP-933fbe2566,Kamau Mutua,Kamau,Mutua,kamau.mutua11@example.com,+254723556182,1992-02-20,6978 Maddox Wall,London,NG,active,ERP
+ERP-42280cd137,Sergio Acosta,Sergio,Acosta,sergio.acosta31@example.com,+254761401477,2004-02-24,0165 Stephanie Divide Suite 021,Nakuru,KE,inactive,ERP
+ERP-b0c319cfb8,Brian Njeri,Brian,Njeri,brian.njeri25@example.com,+254774988034,1992-01-08,403 Joyce Centers Apt. 343,Eldoret,KE,active,ERP
+ERP-f3457f4a23,Erica James,Erica,James,erica.james48@example.com,+254741383044,2007-09-17,40415 Douglas Summit Suite 338,New York,US,active,ERP
+ERP-75789abbc8,Michelle White,Michelle,White,michelle.white85@example.com,+254728024248,1970-04-18,75564 King Common Suite 080,Eldoret,KE,active,ERP
+ERP-a134bcfe0e,Brian Nyokabi,Brian,Nyokabi,brian.nyokabi1@example.com,,1977-10-04,909 Robert Prairie,New York,US,active,ERP
+ERP-ec956484b5,Melissa Jenkins,Melissa,Jenkins,melissa.jenkins79@example.com,+254777750178,1973-04-23,662 Hanna Crossroad Suite 171,London,KE,inactive,ERP
+ERP-16b54e87d6,Joy Mwangi,Joy,Mwangi,joy.mwangi53@example.com,+254730718012,1997-01-17,94731 Melissa Mission Apt. 715,Mombasa,KE,active,ERP
+ERP-db2e1c4d45,Christopher Bruce,Christopher,Bruce,christopher.bruce8@example.com,+254737437207,2027-10-02,180 Jason Ways Suite 401,Eldoret,KE,inactive,ERP
+ERP-af887e32cd,Pamela Navarro,Pamela,Navarro,pamela.navarro39@example.com,0738210242,1988-02-24,39904 Kathryn Extensions,London,NG,active,ERP
+ERP-48fa610c27,J. Williams,Joanne,Williams,joanne.williams98@example.com,254754522084,2004-01-06,9782 Shannon Valleys,Nakuru,KE,active,ERP
+ERP-83fcfd3eec,Otieno Njoroge,Otieno,Njoroge,conflict.CRM-47@elsewhere.com,+254796637649,1960-12-18,62316 Rivera Mountain,Eldoret,KE,active,ERP
+ERP-95a35fbfbb,Kevin Cheruiyot,Kevin,Cheruiyot,kevin.cheruiyot29@example.com,+254735519083,1992-02-18,16558 Fischer Flat,Eldoret,KE,active,ERP
+ERP-db275b8f5f,Katrina Duran,Katrina,Duran,katrina.duran68@example.com,+254747983442,1971-10-26,76226 Vincent Village,Mombasa,KE,inactive,ERP
+ERP-106f9167a0,Njoroge Ochieng,Njoroge,Ochieng,njoroge.ochieng45@example.com,0724883373,1984-01-10,98454 Miller Lodge,Eldoret,KE,active,ERP
+ERP-ed3c2ee0fe,Shane Ferguson,Shane,Ferguson,shane.ferguson95@example.com,0791029073,1972-11-09,59774 Shaw Manor Apt. 392,Eldoret,KE,active,ERP
+ERP-d235b00fb5,Katrina Brcker,Katrina,Becker,katrina.becker80@example.com,+254713619375,1963-11-20,047 Bethany Street,London,US,active,ERP
+ERP-09778f9720,Wanjiku Wekesa,Wanjiku,Wekesa,wanjiku.wekesa65@example.com,+254778139880,2008-07-03,34309 Julie Centers Apt. 978,Mombasa,KE,inactive,ERP
+ERP-bc5b633176,Charles Soto,Charles,Soto,charles.soto34@example.com,+254724549543,1959-07-25,413 Angela Mall,London,NG,active,ERP
+ERP-aa5569a7b8,Odhiambo Cheruiyot,Odhiambo,Cheruiyot,odhiambo.cheruiyot15@example.com,0787054398,1987-04-24,3540 Sharon Streets,Nakuru,KE,inactive,ERP
+ERP-2dfca1ec11,Wambui Otieno,Wambui,Otieno,wambui.otieno40@example.com,0715354599,1986-05-22,0752 Lewis Union Suite 549,Thika,KE,active,ERP
+ERP-6d2f2e38e5,Samantha Bailey,Samantha,Bailey,samantha.bailey13@example.com,+254764038913,1999-06-01,03654 Tammy Harbors,Thika,KE,inactive,ERP
+ERP-9250cc74e9,Odhiambo Mwangi,Odhiambo,Mwangi,odhiambo.mwangi37@example.com,0775056916,2027-02-14,246 Christina Garden,Mombasa,KE,active,ERP
+ERP-0d1916600d,Faith Kiptoo,Faith,Kiptoo,faith.kiptoo93@example.com,+254760975999,1980-09-17,3106 John Cliff,New York,GB,active,ERP
+ERP-ae75ad7df5,Wambui Odhiambo,Wambui,Odhiambo,wambui.odhiambo50@example.com,+254730509175,1975-05-28,38692 Gregory Ridge Suite 937,Nakuru,KE,active,ERP
+ERP-d57d655b56,Cheruiyot Nyokabi,Cheruiyot,Nyokabi,cheruiyot.nyokabi15@example.com,0787388337,1988-04-13,677 Dalton Meadow,Nakuru,KE,active,ERP
+ERP-f6ba2db5c0,Njeri Kariuki,Njeri,Kariuki,njeri.kariuki30@example.com,+254790801586,1976-07-09,9407 Teresa Lane Apt. 849,Nairobi,KE,active,ERP
+ERP-2b6b7ece46,Njoroge Achieng,Njoroge,Achieng,njoroge.achieng36@example.com,+254788561612,2001-01-03,24782 Davis Forges Suite 506,London,KE,unknown,ERP
+ERP-12113c387d,Brian Cheruiyot,Brian,Cheruiyot,brian.cheruiyot66@example.com,+254724636981,2027-09-03,971 Stokes Motorway,New York,GB,inactive,ERP
+ERP-82be1db8d0,Nyokabb Mwangi,Nyokabi,Mwangi,nyokabi.mwangi4@example.com,+254742862209,1980-10-13,85977 James Plaza,New York,US,active,ERP
+ERP-dec1355c58,Travis Salas,Travis,Salas,travis.salas43@example.com,+254725480907,1974-10-31,7520 Everett Neck Apt. 167,Eldoret,KE,active,ERP
+ERP-0be64dbe3e,Warren Carr,Warren,Carr,warren.carr38@example.com,+254755461591,1981-04-14,283 Bolton Neck,Mombasa,KE,active,ERP
+ERP-b8ed86330e,Ochieng Wekesa,Ochieng,Wekesa,ochieng.wekesa30@example.com,+254735848226,1970-12-01,9764 Kari Crescent Suite 614,Thika,KE,active,ERP
+ERP-4b17b16b61,Nancy Jones,Nancy,Jones,conflict.CRM-42@elsewhere.com,+254743744231,1998-10-07,80132 Tucker Forest,Lagos,US,active,ERP
+ERP-95acac1e4d,B. Njoroge,Brian,Njoroge,brian.njoroge54@example.com,+254783300637,1986-07-01,406 Smith Way Apt. 974,Nakuru,KE,active,ERP
+ERP-0bf8f43b7d,Nathaniel Miles,Nathaniel,Miles,nathaniel.miles17@example.com,+254758082464,2004-03-17,91878 Miller Port,Nakuru,KE,active,ERP
+ERP-823c7484c9,Amy Jones,Amy,Jones,amy.jones90@example.com,+254787267850,2005-11-23,647 Gonzalez Lights Suite 136,London,KE,active,ERP
+ERP-e5f7a145e6,Mercy Onyango,Mercy,Onyango,mercy.onyango72@example.com,+254725015458,1984-06-17,85067 Ryan Lake Suite 262,Mombasa,KE,inactive,ERP
+ERP-b3eae34b6d,Ellen Paul,Ellen,Paul,ellen.paul31@example.com,+254773560289,2005-12-07,261 Gilbert Harbors Apt. 537,Mombasa,KE,active,ERP
+ERP-81fbb1bd40,Kevin Nyokabi,Kevin,Nyokabi,kevin.nyokabi39@example.com,0796347724,1963-08-20,9087 Cummings Locks Suite 039,Nairobi,KE,active,ERP
+ERP-7c623c06c3,Otieno Otieno,Otieno,Otieno,otieno.otieno94@example.com,0781971316,1967-09-28,76724 John Points Suite 969,Mombasa,KE,unknown,ERP
+ERP-4a086af8c2,Otieno etieno,Otieno,Otieno,otieno.otieno1@example.com,0727558317,2005-01-17,3193 Heidi Hollow Apt. 905,Eldoret,KE,active,ERP
+ERP-53de999693,Atieno Chetuiyot,Atieno,Cheruiyot,atieno.cheruiyot72@example.com,0793303777,1993-03-19,083 John Lodge Suite 837,Kisumu,KE,inactive,ERP
+ERP-88ed91cf8f,Mary Ramirez,Mary,Ramirez,mary.ramirez67@example.com,0744999379,1997-03-10,347 Jennifer Freeway Suite 558,Nakuru,KE,active,ERP
+ERP-4293bc841b,Stevzn Elliott,Steven,Elliott,steven.elliott20@example.com,+254785543051,1986-11-21,527 Taylor Roads Suite 490,Eldoret,KE,active,ERP
+ERP-2ed6eb4899,Odhiambo Nyokabi,Odhiambo,Nyokabi,odhiambo.nyokabi45@example.com,0783871890,1978-08-05,54599 Nicole Drives Apt. 901,Thika,KE,active,ERP
+ERP-68c2618db2,Grace Mutua,Grace,Mutua,grace.mutua30@example.com,+254722130508,1981-08-26,9125 Shannon Springs Suite 289,London,US,active,ERP
+ERP-82f0dbcc71,Atieno Achieng,Atieno,Achieng,atieno.achieng12@example.com,,1997-11-13,96685 Richard Court,Nairobi,KE,active,ERP
+ERP-fa0b225bd8,Allison Luna,Allison,Luna,allison.luna38@example.com,0777853916,1968-05-07,47868 Morrow Gateway,London,US,active,ERP
+ERP-e2ee723dbd,KeithjSullivan,Keith,Sullivan,conflict.CRM-49@elsewhere.com,+254791937985,2006-12-26,751 Richard Gardens,New York,US,inactive,ERP
+ERP-605cd00c75,Kiptoo Kipchoge,Kiptoo,Kipchoge,kiptoo.kipchoge28@example.com,+254777005685,1980-03-28,15098 Brianna Avenue,London,KE,active,ERP
+ERP-511effba5d,Wekesa Wanjiru,Wekesa,Wanjiru,wekesa.wanjiru50@example.com,0799774697,1997-02-01,533 Byrd Stravenue,London,GB,inactive,ERP
+ERP-2b63b3dc33,Kipchoge Wekesa,Kipchoge,Wekesa,kipchoge.wekesa9@example.com,0757130035,1957-07-06,0084 Dana Terrace,Lagos,KE,active,ERP
+ERP-bb14c3cb3c,Marie Davis,Marie,Davis,marie.davis24@example.com,0738470244,1961-10-17,80988 Santiago Loop Suite 604,Thika,KE,active,ERP
+ERP-5de73d943f,Hunter Barch,Hunter,Burch,hunter.burch13@example.com,0732329103,1979-04-05,82422 Donovan Fork,Eldoret,KE,inactive,ERP
+ERP-f3fc0087c8,Grace Wambui,Grace,Wambui,grace.wambui76@example.com,+254746173157,2002-02-21,758 Jennifer Path,Nairobi,KE,active,ERP
+ERP-5072b2ff93,Onyango Cheruiyot,Onyango,Cheruiyot,onyango.cheruiyot55@example.com,+254 721 655 844,1998-06-19,2160 Walker Viaduct,Nairobi,KE,active,ERP
